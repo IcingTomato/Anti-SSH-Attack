@@ -45,26 +45,35 @@ def main():
             scenario = "NULL"
             details = "NULL"
             
-            # Check for authenticating user pattern first
-            auth_user_match = re.search(r'Connection closed by authenticating user (\S+) ([0-9]+\.[0-9]+\.[0-9]+\.[0-9]+) port (\d+)', message)
-            if auth_user_match:
-                username = auth_user_match.group(1)
-                ip_address = auth_user_match.group(2)
-                port = auth_user_match.group(3)
+            # Check for special "Connection closed by invalid user IP" pattern
+            invalid_user_direct_ip_match = re.search(r'Connection closed by invalid user (\d+\.\d+\.\d+\.\d+) port (\d+)', message)
+            if invalid_user_direct_ip_match:
+                ip_address = invalid_user_direct_ip_match.group(1)
+                port = invalid_user_direct_ip_match.group(2)
                 scenario = "Connection closed"
-                details = "authenticating user"
+                details = "invalid user"
+                # Keep username as "NULL"
             else:
-                # Extract IP address and port (standard pattern)
-                ip_port_match = re.search(r'(?:from|by)\s+(?:invalid user\s+)?([0-9]+\.[0-9]+\.[0-9]+\.[0-9]+)(?:\s+port\s+(\d+))?', message)
-                if ip_port_match:
-                    ip_address = ip_port_match.group(1)
-                    if ip_port_match.group(2):
-                        port = ip_port_match.group(2)
-                
-                # Extract username (standard pattern)
-                username_match = re.search(r'user\s+(\S+)', message)
-                if username_match:
-                    username = username_match.group(1)
+                # Check for authenticating user pattern
+                auth_user_match = re.search(r'Connection closed by authenticating user (\S+) ([0-9]+\.[0-9]+\.[0-9]+\.[0-9]+) port (\d+)', message)
+                if auth_user_match:
+                    username = auth_user_match.group(1)
+                    ip_address = auth_user_match.group(2)
+                    port = auth_user_match.group(3)
+                    scenario = "Connection closed"
+                    details = "authenticating user"
+                else:
+                    # Extract IP address and port (standard pattern)
+                    ip_port_match = re.search(r'(?:from|by)\s+(?:invalid user\s+)?([0-9]+\.[0-9]+\.[0-9]+\.[0-9]+)(?:\s+port\s+(\d+))?', message)
+                    if ip_port_match:
+                        ip_address = ip_port_match.group(1)
+                        if ip_port_match.group(2):
+                            port = ip_port_match.group(2)
+                    
+                    # Extract username (standard pattern) - only if we didn't match the previous pattern
+                    username_match = re.search(r'user\s+(\S+)\s+from', message)
+                    if username_match:
+                        username = username_match.group(1)
                 
                 # Determine scenario and details
                 if "Connection closed by" in message:
