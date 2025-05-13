@@ -3,21 +3,21 @@ import glob
 
 def extract_sshd_logs(source_dir, target_path):
     """
-    从多个日志文件中提取包含 'blog sshd' 的日志行并写入目标文件
+    Extract log lines containing 'blog sshd' from multiple log files and write to target file
     
     Args:
-        source_dir: 源文件所在目录
-        target_path: 目标文件路径
+        source_dir: Source directory of log files
+        target_path: Path to the target file
     """
-    # 确保目标目录存在
+    # Ensure target directory exists
     target_dir = os.path.dirname(target_path)
     if not os.path.exists(target_dir):
         os.makedirs(target_dir)
     
-    # 查找所有匹配的日志文件
+    # Find all matching log files
     log_files = glob.glob(os.path.join(source_dir, "auth.log*"))
     
-    # 提取所有匹配的行
+    # Extract all matching lines
     matched_lines = []
     processed_files = 0
     
@@ -32,19 +32,19 @@ def extract_sshd_logs(source_dir, target_path):
         except Exception as e:
             print(f"Process {log_file} error: {e}")
     
-    # 写入目标文件
+    # Write to target file
     try:
         with open(target_path, 'w', encoding='utf-8') as target_file:
             target_file.writelines(matched_lines)
         
-        print(f"Sucessfully export {len(matched_lines)} to {target_path}")
-        print(f"Totally process {processed_files} files")
+        print(f"Successfully exported {len(matched_lines)} lines to {target_path}")
+        print(f"Processed {processed_files} files in total")
     except Exception as e:
         print(f"Error: {e}")
 
-# 定义源目录和目标文件的路径
+# Define paths for source directory and target file
 source_directory = "./source"
 target_file_path = "./target/target.txt"
 
-# 执行提取操作
+# Execute extraction operation
 extract_sshd_logs(source_directory, target_file_path)
