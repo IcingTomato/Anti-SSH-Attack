@@ -1,0 +1,1599 @@
+PID,Date,Time,IP Address,Port,Username,Scenario,Details
+1890686,May 11,00:02:25,NULL,NULL,NULL,Connection reset,IP
+1906763,May 11,02:10:04,172.236.228.111,58142,NULL,Connection closed,IP
+1906765,May 11,02:10:05,172.236.228.111,58158,NULL,Connection closed,IP
+1906767,May 11,02:10:07,172.236.228.111,58172,NULL,Connection closed,IP
+1909889,May 11,02:34:59,NULL,NULL,NULL,Connection closed,IP
+1909890,May 11,02:35:00,223.113.128.145,53478,NULL,Connection closed,IP
+1909892,May 11,02:35:01,223.113.128.145,55976,NULL,Connection closed,IP
+1910170,May 11,02:37:10,NULL,NULL,NULL,Connection closed,IP
+1912657,May 11,02:56:59,NULL,NULL,NULL,Connection closed,IP
+1919862,May 11,03:54:16,NULL,NULL,NULL,Connection closed,IP
+1920235,May 11,03:57:16,NULL,NULL,NULL,banner line contains invalid characters,NULL
+1924324,May 11,04:29:34,NULL,NULL,NULL,Connection closed,IP
+1928541,May 11,05:03:07,NULL,NULL,NULL,Connection closed,IP
+1930141,May 11,05:15:48,NULL,NULL,NULL,Connection closed,IP
+1937057,May 11,06:10:47,NULL,NULL,NULL,Connection closed,IP
+1937443,May 11,06:13:55,193.32.162.157,46018,NULL,NULL,NULL
+1941103,May 11,06:42:54,NULL,NULL,NULL,Connection closed,IP
+1941115,May 11,06:42:57,NULL,NULL,NULL,Connection closed,IP
+1948531,May 11,07:41:23,NULL,NULL,NULL,client sent invalid protocol identifier,MGLNDD_120.26.163.214_22
+1951882,May 11,08:08:11,45.79.181.104,24288,NULL,Connection closed,IP
+1951884,May 11,08:08:13,45.79.181.104,24304,NULL,Connection closed,IP
+1951886,May 11,08:08:14,45.79.181.104,24308,NULL,Connection closed,IP
+1951973,May 11,08:08:53,172.236.228.86,61034,NULL,Connection closed,IP
+1951975,May 11,08:08:55,172.236.228.86,61050,NULL,Connection closed,IP
+1951977,May 11,08:08:57,172.236.228.86,61052,NULL,Connection closed,IP
+1959784,May 11,09:11:15,NULL,NULL,NULL,banner line contains invalid characters,NULL
+1966988,May 11,10:08:48,205.210.31.153,63694,NULL,Connection reset,IP
+1975081,May 11,11:13:20,NULL,NULL,NULL,banner line contains invalid characters,NULL
+1975082,May 11,11:13:22,NULL,NULL,NULL,client sent invalid protocol identifier,GET / HTTP/1.1
+1975128,May 11,11:13:42,101.251.238.174,60668,NULL,Connection closed,IP
+1975172,May 11,11:14:03,101.251.238.174,36270,NULL,DH GEX group out of range,NULL
+1975245,May 11,11:14:35,101.251.238.174,41694,NULL,DH GEX group out of range,NULL
+1975316,May 11,11:15:04,101.251.238.174,41866,NULL,Connection closed,IP
+1978868,May 11,11:43:39,206.168.34.79,41948,NULL,Connection closed,IP
+1979336,May 11,11:47:08,NULL,NULL,NULL,banner line contains invalid characters,NULL
+1986043,May 11,12:40:09,NULL,NULL,NULL,Connection closed,IP
+1990274,May 11,13:13:58,NULL,NULL,NULL,banner line contains invalid characters,NULL
+1990296,May 11,13:15:36,47.109.186.193,46828,NULL,NULL,NULL
+1990296,May 11,13:15:36,47.109.186.193,46828,NULL,NULL,NULL
+1990459,May 11,13:15:54,47.109.186.193,47138,NULL,NULL,NULL
+1990459,May 11,13:15:54,47.109.186.193,47138,NULL,NULL,NULL
+2006351,May 11,15:22:18,NULL,NULL,NULL,banner line contains invalid characters,NULL
+2008034,May 11,15:35:41,NULL,NULL,NULL,Connection closed,IP
+2017652,May 11,16:52:12,NULL,NULL,NULL,Connection closed,IP
+2018457,May 11,16:58:35,NULL,NULL,NULL,Connection closed,IP
+2020090,May 11,17:11:35,NULL,NULL,NULL,banner line contains invalid characters,NULL
+2033713,May 11,18:59:59,NULL,NULL,NULL,banner line contains invalid characters,NULL
+2042106,May 11,20:06:56,NULL,NULL,NULL,client sent invalid protocol identifier,GET / HTTP/1.1
+2064655,May 11,23:06:47,NULL,NULL,NULL,banner line contains invalid characters,NULL
+2064712,May 11,23:07:11,NULL,NULL,NULL,Connection closed,IP
+2064986,May 11,23:09:24,NULL,NULL,NULL,Connection closed,IP
+2069034,May 11,23:41:37,64.62.197.93,59651,64.62.197.93,Connection closed,invalid user
+2069057,May 11,23:41:44,NULL,NULL,NULL,Connection closed,IP
+2070570,May 11,23:53:49,NULL,NULL,NULL,banner line contains invalid characters,NULL
+2076593,May 12,00:41:41,NULL,NULL,root,Connection closed,IP
+2076606,May 12,00:41:42,NULL,NULL,root,Connection closed,IP
+2076608,May 12,00:41:45,NULL,NULL,root,Connection closed,IP
+2076621,May 12,00:41:46,NULL,NULL,root,Connection closed,IP
+2076623,May 12,00:41:48,NULL,NULL,root,Connection closed,IP
+2076625,May 12,00:41:50,NULL,NULL,root,Connection closed,IP
+2076636,May 12,00:41:51,NULL,NULL,root,Connection closed,IP
+2076638,May 12,00:41:53,NULL,NULL,root,Connection closed,IP
+2076640,May 12,00:41:55,NULL,NULL,root,Connection closed,IP
+2076653,May 12,00:41:58,NULL,NULL,root,Connection closed,IP
+2076655,May 12,00:41:59,NULL,NULL,root,Connection closed,IP
+2076657,May 12,00:42:01,NULL,NULL,root,Connection closed,IP
+2076670,May 12,00:42:03,NULL,NULL,root,Connection closed,IP
+2083059,May 12,01:32:41,NULL,NULL,NULL,banner line contains invalid characters,NULL
+2087802,May 12,02:10:37,45.79.128.205,25564,NULL,Connection closed,IP
+2087804,May 12,02:10:38,NULL,NULL,NULL,Connection reset,IP
+2087814,May 12,02:10:41,45.79.128.205,27680,NULL,Connection closed,IP
+2095168,May 12,03:09:07,NULL,NULL,NULL,Connection closed,IP
+2111387,May 12,05:18:23,NULL,NULL,NULL,banner line contains invalid characters,NULL
+2112099,May 12,05:24:03,NULL,NULL,NULL,banner line contains invalid characters,NULL
+2114257,May 12,05:41:13,NULL,NULL,NULL,Connection closed,IP
+2114258,May 12,05:41:14,185.247.137.212,55491,NULL,Connection closed,IP
+2122283,May 12,06:44:23,NULL,NULL,NULL,Connection closed,IP
+2124023,May 12,06:58:25,NULL,NULL,NULL,Connection closed,IP
+2128853,May 12,07:36:41,NULL,NULL,NULL,Connection closed,IP
+2133075,May 12,08:10:33,45.79.128.205,33032,NULL,Connection closed,IP
+2133086,May 12,08:10:35,45.79.128.205,33040,NULL,Connection closed,IP
+2133088,May 12,08:10:36,45.79.128.205,33058,NULL,Connection closed,IP
+2145531,May 12,09:49:58,NULL,NULL,NULL,client sent invalid protocol identifier,MGLNDD_120.26.163.214_22
+2162687,May 12,12:07:39,NULL,NULL,NULL,Connection closed,IP
+2171139,May 12,13:15:06,NULL,NULL,NULL,Connection closed,IP
+2171730,May 12,13:19:49,NULL,NULL,NULL,banner line contains invalid characters,NULL
+2173724,May 12,13:35:51,NULL,NULL,NULL,Connection closed,IP
+2175171,May 12,13:47:26,71.6.232.24,47876,NULL,Connection closed,IP
+2178144,May 12,14:10:57,172.236.228.198,15388,NULL,Connection closed,IP
+2178146,May 12,14:10:59,172.236.228.198,15410,NULL,Connection closed,IP
+2178148,May 12,14:11:01,172.236.228.198,15432,NULL,Connection closed,IP
+2182324,May 12,14:44:30,NULL,NULL,NULL,banner line contains invalid characters,NULL
+2193285,May 12,16:11:43,NULL,NULL,NULL,client sent invalid protocol identifier,MGLNDD_120.26.163.214_22
+2218591,May 12,19:34:07,NULL,NULL,NULL,banner line contains invalid characters,NULL
+2218603,May 12,19:34:10,NULL,NULL,NULL,Connection closed,IP
+2223101,May 12,20:10:01,65.49.1.113,46751,65.49.1.113,Connection closed,invalid user
+2224674,May 12,20:22:33,NULL,NULL,NULL,Connection closed,IP
+2229988,May 12,21:05:21,162.142.125.216,58616,NULL,Connection closed,IP
+2233595,May 12,21:33:46,NULL,NULL,NULL,Connection closed,IP
+2237581,May 12,22:05:33,NULL,NULL,NULL,client sent invalid protocol identifier,GET / HTTP/1.1
+2241428,May 12,22:35:17,NULL,NULL,NULL,Connection closed,IP
+3891,May 12,23:07:43,NULL,NULL,NULL,banner line contains invalid characters,NULL
+9425,May 12,23:50:12,NULL,NULL,NULL,banner line contains invalid characters,NULL
+27253,May 13,02:10:13,172.105.128.11,56212,NULL,Connection closed,IP
+27255,May 13,02:10:14,172.105.128.11,56220,NULL,Connection closed,IP
+27257,May 13,02:10:15,172.105.128.11,61632,NULL,Connection closed,IP
+29769,May 13,02:30:07,NULL,NULL,NULL,Connection closed,IP
+50981,May 13,05:13:54,NULL,NULL,NULL,Connection closed,IP
+52576,May 13,05:26:23,NULL,NULL,NULL,Connection closed,IP
+74673,May 13,06:01:22,112.96.91.91,NULL,NULL,NULL,NULL
+74705,May 13,06:01:36,112.96.91.91,NULL,NULL,NULL,NULL
+81383,May 13,06:07:49,162.142.125.203,38340,NULL,Connection closed,IP
+99066,May 13,06:24:02,106.15.203.206,55750,NULL,Connection closed,IP
+114515,May 13,06:37:17,NULL,NULL,NULL,Connection closed,IP
+217351,May 13,08:10:25,172.105.128.11,53730,NULL,Connection closed,IP
+217364,May 13,08:10:28,172.105.128.11,53756,NULL,Connection closed,IP
+311147,May 13,09:35:24,88.99.175.76,39438,NULL,Connection closed,IP
+343307,May 13,10:04:58,NULL,NULL,NULL,Connection closed,IP
+378522,May 13,10:36:09,NULL,NULL,NULL,Connection closed,IP
+624997,May  4,00:06:32,NULL,NULL,NULL,Connection closed,IP
+627300,May  4,00:25:00,20.65.193.55,42804,NULL,Connection closed,IP
+630436,May  4,00:49:48,NULL,NULL,NULL,Connection closed,IP
+639859,May  4,02:05:52,171.251.18.1,35766,NULL,Connection closed,IP
+640358,May  4,02:08:58,192.155.90.118,4972,NULL,Connection closed,IP
+640371,May  4,02:08:59,192.155.90.118,4988,NULL,Connection closed,IP
+640373,May  4,02:09:01,192.155.90.118,5004,NULL,Connection closed,IP
+642038,May  4,02:22:13,NULL,NULL,NULL,banner line contains invalid characters,NULL
+642762,May  4,02:27:55,NULL,NULL,NULL,Connection closed,IP
+642763,May  4,02:28:07,NULL,NULL,NULL,Connection closed,IP
+642818,May  4,02:28:20,NULL,NULL,NULL,banner line contains invalid characters,NULL
+642819,May  4,02:28:23,NULL,NULL,NULL,Connection closed,IP
+652554,May  4,03:45:46,NULL,NULL,NULL,client sent invalid protocol identifier,NULL
+652556,May  4,03:45:46,NULL,NULL,NULL,Connection closed,IP
+652555,May  4,03:45:51,NULL,NULL,NULL,Connection closed,IP
+652884,May  4,03:48:24,NULL,NULL,NULL,banner line contains invalid characters,NULL
+652896,May  4,03:48:41,18.222.122.212,42650,NULL,Connection closed,IP
+653855,May  4,03:56:07,NULL,NULL,NULL,Connection closed,IP
+662545,May  4,05:05:21,NULL,NULL,NULL,Connection closed,IP
+663952,May  4,05:16:37,NULL,NULL,NULL,Connection closed,IP
+666486,May  4,05:36:49,NULL,NULL,NULL,client sent invalid protocol identifier,MGLNDD_120.26.163.214_22
+679711,May  4,07:21:45,NULL,NULL,NULL,Connection closed,IP
+683257,May  4,07:50:07,NULL,NULL,NULL,Connection closed,IP
+685748,May  4,08:10:05,172.236.228.202,47682,NULL,Connection closed,IP
+685750,May  4,08:10:06,172.236.228.202,30148,NULL,Connection closed,IP
+693224,May  4,09:10:01,NULL,NULL,NULL,Connection closed,IP
+713107,May  4,11:48:54,NULL,NULL,NULL,banner line contains invalid characters,NULL
+717106,May  4,12:20:49,NULL,NULL,NULL,banner line contains invalid characters,NULL
+717773,May  4,12:26:09,NULL,NULL,NULL,Connection closed,IP
+718078,May  4,12:28:40,NULL,NULL,NULL,Connection closed,IP
+720383,May  4,12:47:01,NULL,NULL,NULL,client sent invalid protocol identifier,MGLNDD_120.26.163.214_22
+733182,May  4,14:29:26,NULL,NULL,NULL,banner line contains invalid characters,NULL
+733674,May  4,14:33:22,NULL,NULL,NULL,Connection closed,IP
+736414,May  4,14:55:16,NULL,NULL,NULL,Connection closed,IP
+757935,May  4,17:46:57,NULL,NULL,NULL,Connection closed,IP
+770561,May  4,19:27:39,NULL,NULL,NULL,Connection closed,IP
+771398,May  4,19:34:18,NULL,NULL,NULL,banner line contains invalid characters,NULL
+775466,May  4,20:06:45,NULL,NULL,NULL,Connection closed,IP
+775467,May  4,20:06:46,223.113.128.174,54684,NULL,Connection closed,IP
+775469,May  4,20:06:48,223.113.128.174,55776,NULL,Connection closed,IP
+782265,May  4,21:00:51,NULL,NULL,NULL,client sent invalid protocol identifier,GET / HTTP/1.1
+786841,May  4,21:37:47,162.142.125.193,34154,NULL,Connection closed,IP
+795655,May  4,22:47:48,NULL,NULL,NULL,Connection closed,IP
+805530,May  5,00:06:05,NULL,NULL,NULL,Connection closed,IP
+817492,May  5,01:41:29,172.202.118.22,37318,NULL,Connection closed,IP
+818007,May  5,01:45:27,64.62.156.17,13321,64.62.156.17,Connection closed,invalid user
+821120,May  5,02:10:09,172.104.11.46,16080,NULL,Connection closed,IP
+821122,May  5,02:10:10,172.104.11.46,16088,NULL,Connection closed,IP
+821124,May  5,02:10:12,172.104.11.46,43246,NULL,Connection closed,IP
+834477,May  5,03:56:05,NULL,NULL,NULL,Connection closed,IP
+834478,May  5,03:56:05,NULL,NULL,NULL,Connection closed,IP
+842876,May  5,05:02:59,NULL,NULL,NULL,banner line contains invalid characters,NULL
+843041,May  5,05:04:14,NULL,NULL,NULL,Connection closed,IP
+843042,May  5,05:04:39,39.102.209.56,42288,NULL,NULL,NULL
+843042,May  5,05:04:39,39.102.209.56,42288,NULL,NULL,NULL
+845203,May  5,05:21:25,NULL,NULL,NULL,Connection closed,IP
+845476,May  5,05:24:03,NULL,NULL,NULL,banner line contains invalid characters,NULL
+850231,May  5,06:01:27,NULL,NULL,NULL,client sent invalid protocol identifier,GET / HTTP/1.1
+858322,May  5,07:05:22,NULL,NULL,NULL,Connection closed,IP
+858323,May  5,07:05:37,106.75.12.9,57572,NULL,Connection closed,IP
+866214,May  5,08:08:23,172.104.11.46,18350,NULL,Connection closed,IP
+866227,May  5,08:08:24,172.104.11.46,18368,NULL,Connection closed,IP
+866229,May  5,08:08:25,172.104.11.46,18382,NULL,Connection closed,IP
+868154,May  5,08:23:58,71.6.232.25,49882,NULL,Connection closed,IP
+869656,May  5,08:35:53,NULL,NULL,NULL,banner line contains invalid characters,NULL
+872630,May  5,08:59:38,NULL,NULL,NULL,banner line contains invalid characters,NULL
+872631,May  5,08:59:39,NULL,NULL,NULL,Connection closed,IP
+872662,May  5,08:59:54,NULL,NULL,NULL,Connection closed,IP
+872674,May  5,09:00:00,NULL,NULL,NULL,client sent invalid protocol identifier,GET http://passport.baidu.com/ HTTP/1.1
+872686,May  5,09:00:00,NULL,NULL,NULL,banner line contains invalid characters,NULL
+883960,May  5,10:30:14,NULL,NULL,NULL,banner line contains invalid characters,NULL
+886016,May  5,10:47:01,167.94.138.53,41928,NULL,Connection closed,IP
+889054,May  5,11:10:55,NULL,NULL,NULL,Connection closed,IP
+896244,May  5,12:08:29,NULL,NULL,NULL,Connection closed,IP
+903015,May  5,13:02:17,NULL,NULL,NULL,client sent invalid protocol identifier,MGLNDD_120.26.163.214_22
+911846,May  5,14:13:07,172.236.228.229,36444,NULL,Connection closed,IP
+911848,May  5,14:13:09,172.236.228.229,36454,NULL,Connection closed,IP
+911859,May  5,14:13:12,172.236.228.229,51556,NULL,Connection closed,IP
+922929,May  5,15:41:36,NULL,NULL,NULL,client sent invalid protocol identifier,GET / HTTP/1.1
+924573,May  5,15:54:44,NULL,NULL,NULL,Connection closed,IP
+925714,May  5,16:03:46,NULL,NULL,NULL,Connection closed,IP
+925737,May  5,16:04:00,121.37.128.117,47664,NULL,Connection reset,IP
+933139,May  5,17:03:12,NULL,NULL,NULL,banner line contains invalid characters,NULL
+952163,May  5,19:35:30,NULL,NULL,NULL,Connection closed,IP
+953492,May  5,19:46:09,NULL,NULL,NULL,client sent invalid protocol identifier,MGLNDD_120.26.163.214_22
+955671,May  5,20:03:37,NULL,NULL,NULL,Connection closed,IP
+956374,May  5,20:09:22,172.236.228.245,40980,NULL,Connection closed,IP
+956386,May  5,20:09:25,172.236.228.245,40982,NULL,Connection closed,IP
+956388,May  5,20:09:26,172.236.228.245,53698,NULL,Connection closed,IP
+959600,May  5,20:35:01,NULL,NULL,NULL,Connection closed,IP
+970374,May  5,22:00:59,65.49.1.232,62169,65.49.1.232,Connection closed,invalid user
+973479,May  5,22:25:45,NULL,NULL,NULL,Connection closed,IP
+976057,May  5,22:46:15,NULL,NULL,NULL,Connection reset,IP
+976069,May  5,22:46:15,111.7.96.151,45522,111.7.96.151,Connection closed,invalid user
+977757,May  5,22:59:44,NULL,NULL,NULL,Connection closed,IP
+979709,May  5,23:15:13,NULL,NULL,NULL,banner line contains invalid characters,NULL
+982074,May  5,23:34:06,NULL,NULL,NULL,Connection closed,IP
+987306,May  6,00:15:39,47.101.137.46,60398,47.101.137.46,Connection closed,invalid user
+989732,May  6,00:34:51,NULL,NULL,NULL,Connection closed,IP
+1001510,May  6,02:08:40,172.104.11.46,9456,NULL,Connection closed,IP
+1001512,May  6,02:08:42,172.104.11.46,9466,NULL,Connection closed,IP
+1001525,May  6,02:08:43,172.104.11.46,9474,NULL,Connection closed,IP
+1001821,May  6,02:11:04,NULL,NULL,NULL,Connection closed,IP
+1015926,May  6,04:03:13,NULL,NULL,NULL,Connection closed,IP
+1016463,May  6,04:07:33,NULL,NULL,NULL,Connection closed,IP
+1018904,May  6,04:27:00,NULL,NULL,NULL,Connection closed,IP
+1024409,May  6,05:11:00,NULL,NULL,NULL,banner line contains invalid characters,NULL
+1036934,May  6,06:50:34,NULL,NULL,NULL,Connection closed,IP
+1036935,May  6,06:50:35,87.236.176.196,39601,NULL,Connection closed,IP
+1043058,May  6,07:39:07,NULL,NULL,NULL,Connection closed,IP
+1046637,May  6,08:08:03,172.105.128.11,26428,NULL,Connection closed,IP
+1046650,May  6,08:08:05,172.105.128.11,19050,NULL,Connection closed,IP
+1046652,May  6,08:08:06,172.105.128.11,19058,NULL,Connection closed,IP
+1052098,May  6,08:51:49,NULL,NULL,NULL,Connection closed,IP
+1056948,May  6,09:30:50,NULL,NULL,NULL,banner line contains invalid characters,NULL
+1057146,May  6,09:32:46,36.111.156.244,43142,NULL,Connection closed,IP
+1063948,May  6,10:27:00,NULL,NULL,NULL,client sent invalid protocol identifier,GET / HTTP/1.1
+1078575,May  6,12:24:16,NULL,NULL,NULL,banner line contains invalid characters,NULL
+1079332,May  6,12:30:20,NULL,NULL,NULL,Connection closed,IP
+1080082,May  6,12:36:13,NULL,NULL,NULL,Connection closed,IP
+1082495,May  6,12:55:28,NULL,NULL,NULL,Connection closed,IP
+1091537,May  6,14:08:08,192.155.90.118,32242,NULL,Connection closed,IP
+1091539,May  6,14:08:10,192.155.90.118,32244,NULL,Connection closed,IP
+1091552,May  6,14:08:12,192.155.90.118,48810,NULL,Connection closed,IP
+1095016,May  6,14:35:47,NULL,NULL,NULL,client sent invalid protocol identifier,GET / HTTP/1.1
+1095017,May  6,14:35:47,NULL,NULL,NULL,client sent invalid protocol identifier,GET / HTTP/1.1
+1099567,May  6,15:12:06,NULL,NULL,NULL,Connection closed,IP
+1105817,May  6,16:02:05,NULL,NULL,NULL,Connection closed,IP
+1108609,May  6,16:24:39,176.215.1.191,36442,NULL,Connection closed,IP
+1132841,May  6,19:38:37,NULL,NULL,NULL,client sent invalid protocol identifier,GET / HTTP/1.1
+1134076,May  6,19:48:25,NULL,NULL,NULL,client sent invalid protocol identifier,MGLNDD_120.26.163.214_22
+1165047,May  6,23:55:23,NULL,NULL,NULL,Connection closed,IP
+1169272,May  7,00:28:53,NULL,NULL,NULL,banner line contains invalid characters,NULL
+1169773,May  7,00:32:53,64.62.156.216,44363,64.62.156.216,Connection closed,invalid user
+1173147,May  7,00:59:42,192.241.155.120,27711,NULL,Connection reset,IP
+1174884,May  7,01:13:39,NULL,NULL,NULL,Connection closed,IP
+1179260,May  7,01:48:27,NULL,NULL,NULL,Connection closed,IP
+1180639,May  7,01:59:24,NULL,NULL,NULL,banner line contains invalid characters,NULL
+1181716,May  7,02:08:03,NULL,NULL,NULL,banner line contains invalid characters,NULL
+1181962,May  7,02:09:59,45.33.80.243,53082,NULL,Connection closed,IP
+1181964,May  7,02:10:01,45.33.80.243,53090,NULL,Connection closed,IP
+1181977,May  7,02:10:03,45.33.80.243,53104,NULL,Connection closed,IP
+1182122,May  7,02:11:14,172.236.228.224,5780,NULL,Connection closed,IP
+1182133,May  7,02:11:16,172.236.228.224,5792,NULL,Connection closed,IP
+1182135,May  7,02:11:18,172.236.228.224,5796,NULL,Connection closed,IP
+1186913,May  7,02:49:33,206.168.34.63,49106,NULL,Connection closed,IP
+1189274,May  7,03:08:02,NULL,NULL,NULL,Connection closed,IP
+1193168,May  7,03:39:18,167.94.138.170,54350,NULL,Connection closed,IP
+1201790,May  7,04:47:41,NULL,NULL,NULL,client sent invalid protocol identifier,MGLNDD_120.26.163.214_22
+1210718,May  7,05:58:57,20.65.195.56,40416,NULL,Connection closed,IP
+1213435,May  7,06:20:25,NULL,NULL,NULL,Connection closed,IP
+1227140,May  7,08:09:05,45.79.181.94,53988,NULL,Connection closed,IP
+1227142,May  7,08:09:07,45.79.181.94,53998,NULL,Connection closed,IP
+1227155,May  7,08:09:09,45.79.181.94,48742,NULL,Connection closed,IP
+1250501,May  7,11:15:28,167.94.138.194,51172,NULL,Connection closed,IP
+1264225,May  7,13:06:13,176.215.1.191,54452,NULL,Connection reset,IP
+1264654,May  7,13:08:16,NULL,NULL,NULL,Connection closed,IP
+1272585,May  7,14:11:34,172.236.228.39,47784,NULL,Connection closed,IP
+1272587,May  7,14:11:35,172.236.228.39,52798,NULL,Connection closed,IP
+1272600,May  7,14:11:37,172.236.228.39,52806,NULL,Connection closed,IP
+1283457,May  7,15:38:23,NULL,NULL,root,Connection closed,IP
+1290992,May  7,16:38:26,NULL,NULL,NULL,Connection closed,IP
+1293710,May  7,17:00:06,NULL,NULL,NULL,banner line contains invalid characters,NULL
+1298039,May  7,17:34:39,NULL,NULL,NULL,Connection closed,IP
+1298795,May  7,17:39:32,NULL,NULL,NULL,Connection closed,IP
+1304487,May  7,18:16:49,NULL,NULL,NULL,banner line contains invalid characters,NULL
+1306901,May  7,18:36:09,64.62.156.205,40297,64.62.156.205,Connection closed,invalid user
+1315971,May  7,19:48:29,NULL,NULL,NULL,client sent invalid protocol identifier,GET / HTTP/1.1
+1318535,May  7,20:09:01,172.236.228.38,8930,NULL,Connection closed,IP
+1318537,May  7,20:09:03,172.236.228.38,8934,NULL,Connection closed,IP
+1318539,May  7,20:09:05,172.236.228.38,8938,NULL,Connection closed,IP
+1325636,May  7,21:05:33,NULL,NULL,NULL,banner line contains invalid characters,NULL
+1325637,May  7,21:05:33,NULL,NULL,NULL,client sent invalid protocol identifier,GET / HTTP/1.1
+1325704,May  7,21:06:03,101.251.238.174,43210,NULL,Connection closed,IP
+1325751,May  7,21:06:26,101.251.238.174,52566,NULL,DH GEX group out of range,NULL
+1325795,May  7,21:06:48,101.251.238.174,41862,NULL,DH GEX group out of range,NULL
+1325841,May  7,21:07:08,101.251.238.174,58526,NULL,DH GEX group out of range,NULL
+1325865,May  7,21:07:21,101.251.238.174,47506,NULL,DH GEX group out of range,NULL
+1325911,May  7,21:07:42,101.251.238.174,51498,NULL,DH GEX group out of range,NULL
+1325955,May  7,21:08:00,101.251.238.174,51578,NULL,Connection closed,IP
+1329836,May  7,21:38:58,NULL,NULL,NULL,Connection closed,IP
+1329924,May  7,21:39:40,NULL,NULL,NULL,banner line contains invalid characters,NULL
+1330997,May  7,21:48:09,NULL,NULL,NULL,Connection closed,IP
+1332924,May  7,22:03:33,NULL,NULL,NULL,Connection closed,IP
+1361411,May  8,01:49:09,NULL,NULL,NULL,Connection closed,IP
+1364183,May  8,02:11:14,NULL,NULL,NULL,Connection reset,IP
+1364195,May  8,02:11:16,NULL,NULL,NULL,Connection reset,IP
+1364196,May  8,02:11:17,NULL,NULL,NULL,Connection reset,IP
+1379486,May  8,04:12:47,NULL,NULL,NULL,Connection closed,IP
+1388352,May  8,05:23:21,NULL,NULL,NULL,client sent invalid protocol identifier,MGLNDD_120.26.163.214_22
+1396323,May  8,06:26:25,45.156.128.98,34205,NULL,Connection closed,IP
+1402809,May  8,07:18:01,NULL,NULL,NULL,banner line contains invalid characters,NULL
+1402899,May  8,07:19:15,120.26.230.64,51354,NULL,NULL,NULL
+1402899,May  8,07:19:15,120.26.230.64,51354,NULL,NULL,NULL
+1405488,May  8,07:39:18,NULL,NULL,NULL,Connection closed,IP
+1409101,May  8,08:08:05,172.104.11.46,46274,NULL,Connection closed,IP
+1409103,May  8,08:08:06,172.104.11.46,46286,NULL,Connection closed,IP
+1409105,May  8,08:08:08,172.104.11.46,46288,NULL,Connection closed,IP
+1409587,May  8,08:11:59,172.236.228.198,3422,NULL,Connection closed,IP
+1409589,May  8,08:12:01,172.236.228.198,3438,NULL,Connection closed,IP
+1409602,May  8,08:12:02,172.236.228.198,3450,NULL,Connection closed,IP
+1418211,May  8,09:20:41,NULL,NULL,NULL,Connection closed,IP
+1424348,May  8,10:09:39,NULL,NULL,NULL,banner line contains invalid characters,NULL
+1432691,May  8,11:16:04,NULL,NULL,NULL,client sent invalid protocol identifier,MGLNDD_120.26.163.214_22
+1435072,May  8,11:35:07,NULL,NULL,NULL,Connection closed,IP
+1438556,May  8,12:02:18,NULL,NULL,NULL,Connection closed,IP
+1445602,May  8,12:58:47,88.5.4.251,40656,88.5.4.251,Connection closed,invalid user
+1455281,May  8,14:15:53,NULL,NULL,NULL,Connection closed,IP
+1458710,May  8,14:43:59,NULL,NULL,NULL,banner line contains invalid characters,NULL
+1458744,May  8,14:44:07,120.27.154.152,12140,NULL,NULL,NULL
+1458744,May  8,14:44:07,120.27.154.152,12140,NULL,NULL,NULL
+1458954,May  8,14:46:06,120.27.154.152,53698,NULL,NULL,NULL
+1458954,May  8,14:46:06,120.27.154.152,53698,NULL,NULL,NULL
+1461843,May  8,15:08:24,167.94.145.98,48740,NULL,Connection closed,IP
+1468332,May  8,15:59:54,106.15.203.206,50970,106.15.203.206,Connection closed,invalid user
+1471249,May  8,16:23:06,NULL,NULL,NULL,client sent invalid protocol identifier,GET / HTTP/1.1
+1471509,May  8,16:25:14,NULL,NULL,NULL,Connection closed,IP
+1474110,May  8,16:46:01,NULL,NULL,NULL,banner line contains invalid characters,NULL
+1474144,May  8,16:46:17,NULL,NULL,NULL,client sent invalid protocol identifier,GET http://passport.baidu.com/ HTTP/1.1
+1474167,May  8,16:46:31,NULL,NULL,NULL,banner line contains invalid characters,NULL
+1484643,May  8,18:10:10,NULL,NULL,NULL,Connection closed,IP
+1486137,May  8,18:22:08,NULL,NULL,NULL,Connection closed,IP
+1486213,May  8,18:22:45,NULL,NULL,NULL,Connection closed,IP
+1486346,May  8,18:23:57,93.123.109.19,40422,93.123.109.19,Connection closed,invalid user
+1493850,May  8,19:23:35,NULL,NULL,NULL,client sent invalid protocol identifier,GET / HTTP/1.1
+1493851,May  8,19:23:37,NULL,NULL,NULL,client sent invalid protocol identifier,GET / HTTP/1.1
+1493863,May  8,19:23:41,NULL,NULL,NULL,client sent invalid protocol identifier,NULL
+1495071,May  8,19:33:20,NULL,NULL,NULL,banner line contains invalid characters,NULL
+1499779,May  8,20:10:54,172.236.228.222,20620,NULL,Connection closed,IP
+1499781,May  8,20:10:55,172.236.228.222,20624,NULL,Connection closed,IP
+1499794,May  8,20:10:57,172.236.228.222,20634,NULL,Connection closed,IP
+1512018,May  8,21:47:37,NULL,NULL,NULL,banner line contains invalid characters,NULL
+1520054,May  8,22:51:45,NULL,NULL,NULL,Connection closed,IP
+1523231,May  8,23:17:06,NULL,NULL,NULL,Connection closed,IP
+1527111,May  8,23:48:02,NULL,NULL,NULL,Connection closed,IP
+1539321,May  9,01:25:13,65.49.1.215,2535,65.49.1.215,Connection closed,invalid user
+1544592,May  9,02:07:05,NULL,NULL,NULL,Connection closed,IP
+1545229,May  9,02:12:11,172.236.228.193,8130,NULL,Connection closed,IP
+1545242,May  9,02:12:13,172.236.228.193,8146,NULL,Connection closed,IP
+1545244,May  9,02:12:14,172.236.228.193,36364,NULL,Connection closed,IP
+1555661,May  9,03:35:13,NULL,NULL,NULL,Connection closed,IP
+1564664,May  9,04:46:40,167.94.145.102,44492,NULL,Connection closed,IP
+1565246,May  9,04:51:01,NULL,NULL,NULL,Connection closed,IP
+1566829,May  9,05:03:48,NULL,NULL,NULL,Connection closed,IP
+1567685,May  9,05:10:28,NULL,NULL,NULL,Connection closed,IP
+1567686,May  9,05:10:43,106.75.50.44,53808,NULL,Connection closed,IP
+1569759,May  9,05:26:53,185.93.89.118,55158,NULL,NULL,NULL
+1579657,May  9,06:45:14,NULL,NULL,NULL,Connection closed,IP
+1579658,May  9,06:45:15,185.247.137.162,59487,NULL,Connection closed,IP
+1581273,May  9,06:58:04,NULL,NULL,NULL,Connection closed,IP
+1581274,May  9,06:58:15,NULL,NULL,NULL,Connection closed,IP
+1581676,May  9,07:01:14,NULL,NULL,NULL,Connection closed,IP
+1581899,May  9,07:02:59,NULL,NULL,NULL,banner line contains invalid characters,NULL
+1581900,May  9,07:03:03,NULL,NULL,NULL,Connection closed,IP
+1590294,May  9,08:09:48,45.79.181.94,51548,NULL,Connection closed,IP
+1590296,May  9,08:09:50,45.79.181.94,24226,NULL,Connection closed,IP
+1590298,May  9,08:09:51,45.79.181.94,24228,NULL,Connection closed,IP
+1595416,May  9,08:50:47,NULL,NULL,NULL,banner line contains invalid characters,NULL
+1602988,May  9,09:51:12,NULL,NULL,NULL,client sent invalid protocol identifier,GET / HTTP/1.1
+1608455,May  9,10:34:54,NULL,NULL,NULL,banner line contains invalid characters,NULL
+1608467,May  9,10:35:02,NULL,NULL,NULL,Connection reset,IP
+1612914,May  9,11:10:31,NULL,NULL,NULL,banner line contains invalid characters,NULL
+1612924,May  9,11:10:52,199.45.155.105,37856,NULL,Connection closed,IP
+1620421,May  9,12:10:26,NULL,NULL,NULL,Connection closed,IP
+1634313,May  9,14:01:30,167.94.145.109,38976,NULL,Connection closed,IP
+1635600,May  9,14:11:32,45.79.181.223,53818,NULL,Connection closed,IP
+1635602,May  9,14:11:33,45.79.181.223,53822,NULL,Connection closed,IP
+1635615,May  9,14:11:35,45.79.181.223,53838,NULL,Connection closed,IP
+1649841,May  9,16:04:37,NULL,NULL,NULL,client sent invalid protocol identifier,MGLNDD_120.26.163.214_22
+1663376,May  9,17:52:50,NULL,NULL,NULL,Connection closed,IP
+1666964,May  9,18:21:34,NULL,NULL,NULL,Connection reset,IP
+1668075,May  9,18:30:21,92.204.144.151,39666,NULL,Connection closed,IP
+1674684,May  9,19:23:16,185.242.226.20,54806,NULL,Connection closed,IP
+1680383,May  9,20:08:30,172.104.11.51,28318,NULL,Connection closed,IP
+1680385,May  9,20:08:32,172.104.11.51,28324,NULL,Connection closed,IP
+1680396,May  9,20:08:34,172.104.11.51,28328,NULL,Connection closed,IP
+1687218,May  9,21:02:35,NULL,NULL,NULL,Connection closed,IP
+1689250,May  9,21:18:47,NULL,NULL,NULL,client sent invalid protocol identifier,GET / HTTP/1.1
+1692100,May  9,21:41:31,185.93.89.118,42354,NULL,NULL,NULL
+1696641,May  9,22:17:45,NULL,NULL,root,Connection closed,IP
+1696643,May  9,22:17:47,NULL,NULL,root,Connection closed,IP
+1696656,May  9,22:17:49,NULL,NULL,root,Connection closed,IP
+1696658,May  9,22:17:52,NULL,NULL,root,Connection closed,IP
+1696671,May  9,22:17:55,NULL,NULL,root,Connection closed,IP
+1696673,May  9,22:17:58,NULL,NULL,root,Connection closed,IP
+1696684,May  9,22:18:00,NULL,NULL,root,Connection closed,IP
+1696708,May  9,22:18:12,NULL,NULL,root,Connection closed,IP
+1696710,May  9,22:18:15,NULL,NULL,root,Connection closed,IP
+1696723,May  9,22:18:17,NULL,NULL,root,Connection closed,IP
+1696725,May  9,22:18:21,NULL,NULL,root,Connection closed,IP
+1696736,May  9,22:18:24,NULL,NULL,root,Connection closed,IP
+1698825,May  9,22:34:59,NULL,NULL,NULL,client sent invalid protocol identifier,MGLNDD_120.26.163.214_22
+1703057,May  9,23:08:43,NULL,NULL,NULL,client sent invalid protocol identifier,GET / HTTP/1.1
+1703058,May  9,23:08:43,NULL,NULL,NULL,client sent invalid protocol identifier,GET / HTTP/1.1
+1706306,May  9,23:34:41,64.62.197.102,12545,64.62.197.102,Connection closed,invalid user
+1710809,May 10,00:10:23,161.35.87.217,43798,NULL,Connection closed,IP
+1717202,May 10,01:01:19,NULL,NULL,NULL,client sent invalid protocol identifier,GET / HTTP/1.1
+1717203,May 10,01:01:19,NULL,NULL,NULL,client sent invalid protocol identifier,GET / HTTP/1.1
+1725546,May 10,02:07:46,172.104.11.34,57382,NULL,Connection closed,IP
+1725548,May 10,02:07:48,172.104.11.34,57388,NULL,Connection closed,IP
+1725560,May 10,02:07:51,172.104.11.34,57396,NULL,Connection closed,IP
+1748774,May 10,05:12:51,NULL,NULL,NULL,banner line contains invalid characters,NULL
+1755300,May 10,06:04:42,NULL,NULL,NULL,Connection closed,IP
+1755708,May 10,06:07:58,NULL,NULL,NULL,Connection closed,IP
+1770972,May 10,08:08:58,45.79.181.94,51992,NULL,Connection closed,IP
+1770974,May 10,08:09:00,45.79.181.94,46668,NULL,Connection closed,IP
+1770987,May 10,08:09:01,45.79.181.94,46670,NULL,Connection closed,IP
+1774976,May 10,08:40:32,NULL,NULL,NULL,Connection closed,IP
+1779196,May 10,09:14:18,NULL,NULL,NULL,Connection closed,IP
+1779579,May 10,09:17:20,NULL,NULL,NULL,Connection reset,IP
+1782198,May 10,09:38:20,NULL,NULL,NULL,Connection closed,IP
+1792443,May 10,11:00:05,NULL,NULL,NULL,Connection closed,IP
+1796238,May 10,11:30:33,NULL,NULL,NULL,Connection closed,IP
+1804427,May 10,12:35:51,NULL,NULL,NULL,Connection closed,IP
+1815989,May 10,14:08:11,172.236.228.229,19260,NULL,Connection closed,IP
+1815991,May 10,14:08:13,172.236.228.229,19270,NULL,Connection closed,IP
+1815993,May 10,14:08:15,172.236.228.229,19280,NULL,Connection closed,IP
+1820048,May 10,14:40:36,NULL,NULL,NULL,Connection closed,IP
+1820082,May 10,14:40:50,NULL,NULL,NULL,Connection closed,IP
+1826604,May 10,15:32:42,167.94.145.104,55486,NULL,Connection closed,IP
+1835185,May 10,16:40:50,NULL,NULL,NULL,Connection closed,IP
+1838209,May 10,17:04:56,NULL,NULL,NULL,Connection closed,IP
+1844068,May 10,17:51:48,NULL,NULL,NULL,banner line contains invalid characters,NULL
+1848604,May 10,18:28:02,NULL,NULL,NULL,Connection closed,IP
+1851623,May 10,18:52:07,NULL,NULL,NULL,Connection closed,IP
+1854089,May 10,19:11:40,NULL,NULL,NULL,Connection closed,IP
+1854680,May 10,19:16:22,NULL,NULL,NULL,Connection closed,IP
+1861152,May 10,20:07:59,172.236.228.208,54508,NULL,Connection closed,IP
+1861154,May 10,20:08:01,172.236.228.208,61072,NULL,Connection closed,IP
+1861167,May 10,20:08:03,172.236.228.208,61078,NULL,Connection closed,IP
+1863840,May 10,20:29:21,NULL,NULL,NULL,Connection closed,IP
+1864147,May 10,20:32:04,162.142.125.115,45712,NULL,Connection closed,IP
+1865827,May 10,20:45:17,NULL,NULL,NULL,Connection reset,IP
+1865850,May 10,20:45:30,NULL,NULL,NULL,Connection closed,IP
+1865929,May 10,20:45:55,NULL,NULL,NULL,banner line contains invalid characters,NULL
+1865930,May 10,20:45:59,NULL,NULL,NULL,Connection closed,IP
+1866832,May 10,20:53:12,51.91.174.246,35453,NULL,Connection closed,IP
+1866867,May 10,20:53:26,NULL,NULL,NULL,client sent invalid protocol identifier,GET / HTTP/1.1
+1866933,May 10,20:54:05,137.74.181.249,55419,NULL,Connection closed,IP
+1869797,May 10,21:16:49,NULL,NULL,NULL,Connection closed,IP
+1874980,May 10,21:57:56,NULL,NULL,NULL,Connection closed,IP
+1875631,May 10,22:03:07,NULL,NULL,NULL,banner line contains invalid characters,NULL
+1875752,May 10,22:04:05,NULL,NULL,NULL,Connection closed,IP
+1882081,May 10,22:54:41,64.62.197.181,19897,64.62.197.181,Connection closed,invalid user
+3554439,Apr 27,00:02:11,NULL,NULL,root,Connection closed,IP
+3560166,Apr 27,00:47:45,NULL,NULL,NULL,banner line contains invalid characters,NULL
+3560167,Apr 27,00:47:47,NULL,NULL,NULL,banner line contains invalid characters,NULL
+3560168,Apr 27,00:47:47,NULL,NULL,NULL,client sent invalid protocol identifier,GET / HTTP/1.1
+3560200,Apr 27,00:47:59,101.251.238.60,57192,NULL,Connection closed,IP
+3560202,Apr 27,00:48:03,101.251.238.60,57202,NULL,Connection closed,IP
+3560248,Apr 27,00:48:21,101.251.238.60,59896,NULL,DH GEX group out of range,NULL
+3560250,Apr 27,00:48:22,NULL,NULL,NULL,banner line contains invalid characters,NULL
+3560251,Apr 27,00:48:22,NULL,NULL,NULL,client sent invalid protocol identifier,GET / HTTP/1.1
+3560252,Apr 27,00:48:23,101.251.238.60,59912,NULL,DH GEX group out of range,NULL
+3560254,Apr 27,00:48:24,101.251.238.60,59928,NULL,DH GEX group out of range,NULL
+3560301,Apr 27,00:48:43,101.251.238.60,45422,NULL,Connection closed,IP
+3560303,Apr 27,00:48:46,101.251.238.60,45428,NULL,DH GEX group out of range,NULL
+3560316,Apr 27,00:48:48,101.251.238.60,51734,NULL,DH GEX group out of range,NULL
+3560351,Apr 27,00:49:04,101.251.238.60,35372,NULL,DH GEX group out of range,NULL
+3560353,Apr 27,00:49:05,101.251.238.60,35388,NULL,DH GEX group out of range,NULL
+3560389,Apr 27,00:49:18,101.251.238.60,60236,NULL,DH GEX group out of range,NULL
+3560391,Apr 27,00:49:21,101.251.238.60,60250,NULL,DH GEX group out of range,NULL
+3560425,Apr 27,00:49:38,101.251.238.60,59694,NULL,DH GEX group out of range,NULL
+3560449,Apr 27,00:49:46,101.251.238.60,50626,NULL,DH GEX group out of range,NULL
+3560451,Apr 27,00:49:48,101.251.238.60,50634,NULL,Connection closed,IP
+3560507,Apr 27,00:50:12,101.251.238.60,34902,NULL,DH GEX group out of range,NULL
+3560553,Apr 27,00:50:36,101.251.238.60,43392,NULL,Connection closed,IP
+3567962,Apr 27,01:49:25,NULL,NULL,NULL,Connection closed,IP
+3568456,Apr 27,01:53:25,98.80.4.49,39154,98.80.4.49,Connection closed,invalid user
+3570866,Apr 27,02:12:34,NULL,NULL,NULL,banner line contains invalid characters,NULL
+3570911,Apr 27,02:12:54,NULL,NULL,NULL,client sent invalid protocol identifier,GET http://passport.baidu.com/ HTTP/1.1
+3570945,Apr 27,02:13:10,NULL,NULL,NULL,banner line contains invalid characters,NULL
+3582100,Apr 27,03:41:38,NULL,NULL,NULL,Connection closed,IP
+3582254,Apr 27,03:42:52,NULL,NULL,NULL,Connection closed,IP
+3599532,Apr 27,06:00:39,NULL,NULL,NULL,Connection closed,IP
+3600193,Apr 27,06:05:56,NULL,NULL,NULL,Connection closed,IP
+3601218,Apr 27,06:14:10,NULL,NULL,NULL,Connection closed,IP
+3601575,Apr 27,06:16:57,NULL,NULL,NULL,banner line contains invalid characters,NULL
+3609289,Apr 27,07:18:00,NULL,NULL,NULL,Connection closed,IP
+3611142,Apr 27,07:32:46,NULL,NULL,NULL,client sent invalid protocol identifier,MGLNDD_120.26.163.214_22
+3611473,Apr 27,07:35:25,NULL,NULL,NULL,Connection closed,IP
+3623276,Apr 27,09:09:43,NULL,NULL,NULL,Connection closed,IP
+3637779,Apr 27,11:05:41,NULL,NULL,NULL,banner line contains invalid characters,NULL
+3638438,Apr 27,11:11:02,NULL,NULL,NULL,Connection closed,IP
+3647446,Apr 27,12:23:04,NULL,NULL,NULL,Connection closed,IP
+3649052,Apr 27,12:36:00,NULL,NULL,NULL,banner line contains invalid characters,NULL
+3649750,Apr 27,12:41:34,NULL,NULL,NULL,Connection closed,IP
+3655244,Apr 27,13:25:27,NULL,NULL,NULL,client sent invalid protocol identifier,MGLNDD_120.26.163.214_22
+3658902,Apr 27,13:54:46,NULL,NULL,NULL,Connection closed,IP
+3659423,Apr 27,13:58:56,NULL,NULL,NULL,banner line contains invalid characters,NULL
+3660559,Apr 27,14:07:58,172.104.11.4,5586,NULL,Connection closed,IP
+3660570,Apr 27,14:08:00,172.104.11.4,5598,NULL,Connection closed,IP
+3660572,Apr 27,14:08:01,172.104.11.4,5608,NULL,Connection closed,IP
+3663752,Apr 27,14:33:25,NULL,NULL,NULL,Connection closed,IP
+3678477,Apr 27,16:30:40,NULL,NULL,NULL,Connection closed,IP
+3678489,Apr 27,16:30:42,185.247.137.246,33095,NULL,Connection closed,IP
+3690789,Apr 27,18:09:04,NULL,NULL,NULL,Connection closed,IP
+3691557,Apr 27,18:15:17,65.49.1.144,54699,65.49.1.144,Connection closed,invalid user
+3691631,Apr 27,18:15:50,NULL,NULL,NULL,banner line contains invalid characters,NULL
+3692729,Apr 27,18:25:37,NULL,NULL,NULL,banner line contains invalid characters,NULL
+3694882,Apr 27,18:41:40,NULL,NULL,NULL,Connection closed,IP
+3698090,Apr 27,19:07:26,NULL,NULL,NULL,client sent invalid protocol identifier,GET / HTTP/1.1
+3699754,Apr 27,19:20:53,20.168.122.3,33244,NULL,Connection closed,IP
+3700007,Apr 27,19:22:43,NULL,NULL,NULL,Connection closed,IP
+3705860,Apr 27,20:09:34,NULL,NULL,NULL,Connection closed,IP
+3707613,Apr 27,20:23:30,NULL,NULL,NULL,Connection closed,IP
+3708648,Apr 27,20:31:22,NULL,NULL,NULL,Connection closed,IP
+3713041,Apr 27,21:06:32,NULL,NULL,root,Connection closed,IP
+3713043,Apr 27,21:06:34,NULL,NULL,root,Connection closed,IP
+3713054,Apr 27,21:06:35,NULL,NULL,root,Connection closed,IP
+3713056,Apr 27,21:06:37,NULL,NULL,root,Connection closed,IP
+3713058,Apr 27,21:06:40,NULL,NULL,root,Connection closed,IP
+3713070,Apr 27,21:06:41,NULL,NULL,root,Connection closed,IP
+3713072,Apr 27,21:06:45,NULL,NULL,root,Connection closed,IP
+3713085,Apr 27,21:06:47,NULL,NULL,root,Connection closed,IP
+3713087,Apr 27,21:06:49,NULL,NULL,root,Connection closed,IP
+3713100,Apr 27,21:06:50,NULL,NULL,root,Connection closed,IP
+3713102,Apr 27,21:06:52,NULL,NULL,root,Connection closed,IP
+3713104,Apr 27,21:06:54,NULL,NULL,root,Connection closed,IP
+3713117,Apr 27,21:06:56,NULL,NULL,root,Connection closed,IP
+3717242,Apr 27,21:39:48,NULL,NULL,NULL,client sent invalid protocol identifier,GET http://passport.baidu.com/ HTTP/1.1
+3717243,Apr 27,21:39:48,NULL,NULL,NULL,banner line contains invalid characters,NULL
+3717264,Apr 27,21:40:00,NULL,NULL,NULL,banner line contains invalid characters,NULL
+3720025,Apr 27,22:02:06,NULL,NULL,NULL,banner line contains invalid characters,NULL
+3722139,Apr 27,22:18:56,NULL,NULL,NULL,Connection closed,IP
+3727849,Apr 27,23:04:45,167.94.138.171,42926,NULL,Connection closed,IP
+3737726,Apr 28,00:22:48,NULL,NULL,NULL,Connection closed,IP
+3758754,Apr 28,03:10:36,NULL,NULL,NULL,banner line contains invalid characters,NULL
+3764169,Apr 28,03:53:40,NULL,NULL,NULL,client sent invalid protocol identifier,GET / HTTP/1.1
+3773327,Apr 28,05:06:45,NULL,NULL,NULL,Connection closed,IP
+3774679,Apr 28,05:17:28,NULL,NULL,NULL,Connection closed,IP
+3781131,Apr 28,06:08:51,NULL,NULL,NULL,Connection closed,IP
+3785240,Apr 28,06:41:07,NULL,NULL,NULL,Connection closed,IP
+3791451,Apr 28,07:30:41,NULL,NULL,NULL,Connection closed,IP
+3796330,Apr 28,08:09:41,45.79.181.223,35994,NULL,Connection closed,IP
+3796332,Apr 28,08:09:42,45.79.181.223,36000,NULL,Connection closed,IP
+3796334,Apr 28,08:09:43,45.79.181.223,36012,NULL,Connection closed,IP
+3798633,Apr 28,08:28:02,NULL,NULL,NULL,Connection closed,IP
+3799259,Apr 28,08:33:04,NULL,NULL,NULL,client sent invalid protocol identifier,GET / HTTP/1.1
+3799260,Apr 28,08:33:04,NULL,NULL,NULL,client sent invalid protocol identifier,GET / HTTP/1.1
+3800623,Apr 28,08:44:05,NULL,NULL,NULL,Connection closed,IP
+3801285,Apr 28,08:49:21,NULL,NULL,NULL,Connection reset,IP
+3803766,Apr 28,09:09:23,167.94.145.100,37204,NULL,Connection closed,IP
+3818760,Apr 28,11:09:02,146.190.241.65,60784,NULL,Connection closed,IP
+3820363,Apr 28,11:21:36,NULL,NULL,NULL,client sent invalid protocol identifier,GET / HTTP/1.1
+3822813,Apr 28,11:41:23,71.6.232.20,34102,NULL,Connection closed,IP
+3823493,Apr 28,11:46:42,NULL,NULL,NULL,banner line contains invalid characters,NULL
+3841509,Apr 28,14:10:13,172.104.11.34,42724,NULL,Connection closed,IP
+3841522,Apr 28,14:10:15,172.104.11.34,42740,NULL,Connection closed,IP
+3841524,Apr 28,14:10:18,172.104.11.34,42744,NULL,Connection closed,IP
+3844387,Apr 28,14:33:10,NULL,NULL,NULL,client sent invalid protocol identifier,MGLNDD_120.26.163.214_22
+3844573,Apr 28,14:34:42,NULL,NULL,NULL,Connection closed,IP
+3849887,Apr 28,15:17:13,217.198.6.43,45978,217.198.6.43,Connection closed,invalid user
+3856736,Apr 28,16:12:02,NULL,NULL,NULL,client sent invalid protocol identifier,GET / HTTP/1.1
+3856737,Apr 28,16:12:02,NULL,NULL,NULL,client sent invalid protocol identifier,GET / HTTP/1.1
+3857853,Apr 28,16:21:01,NULL,NULL,NULL,Connection closed,IP
+3860314,Apr 28,16:40:38,NULL,NULL,NULL,Connection closed,IP
+3863388,Apr 28,17:05:08,NULL,NULL,NULL,Connection closed,IP
+3875278,Apr 28,18:40:20,NULL,NULL,NULL,Connection closed,IP
+3876420,Apr 28,18:49:29,NULL,NULL,NULL,banner line contains invalid characters,NULL
+3878238,Apr 28,19:03:55,NULL,NULL,NULL,Connection closed,IP
+3880063,Apr 28,19:18:27,NULL,NULL,NULL,Connection closed,IP
+3883998,Apr 28,19:50:03,NULL,NULL,NULL,client sent invalid protocol identifier,MGLNDD_120.26.163.214_22
+3884327,Apr 28,19:52:36,NULL,NULL,NULL,banner line contains invalid characters,NULL
+3886262,Apr 28,20:08:09,192.155.90.220,64806,NULL,Connection closed,IP
+3886264,Apr 28,20:08:10,192.155.90.220,64818,NULL,Connection closed,IP
+3886277,Apr 28,20:08:12,192.155.90.220,64826,NULL,Connection closed,IP
+3903896,Apr 28,22:28:55,NULL,NULL,NULL,Connection closed,IP
+3915196,Apr 28,23:58:54,164.90.226.235,49710,NULL,Connection closed,IP
+3917528,Apr 29,00:16:54,NULL,NULL,NULL,banner line contains invalid characters,NULL
+3926660,Apr 29,01:29:36,64.62.156.61,54417,64.62.156.61,Connection closed,invalid user
+3933246,Apr 29,02:22:07,172.104.11.4,21012,NULL,Connection closed,IP
+3933258,Apr 29,02:22:09,172.104.11.4,21016,NULL,Connection closed,IP
+3933261,Apr 29,02:22:12,172.104.11.4,21024,NULL,Connection closed,IP
+3933351,Apr 29,02:22:49,NULL,NULL,NULL,Connection closed,IP
+3946765,Apr 29,04:09:43,NULL,NULL,NULL,Connection closed,IP
+3954669,Apr 29,05:12:43,NULL,NULL,NULL,Connection closed,IP
+3971062,Apr 29,07:22:32,NULL,NULL,NULL,Connection closed,IP
+3979310,Apr 29,08:28:23,NULL,NULL,NULL,Connection closed,IP
+3981136,Apr 29,08:42:59,NULL,NULL,NULL,Connection closed,IP
+3995950,Apr 29,10:41:42,185.180.141.45,37533,NULL,Connection closed,IP
+3998665,Apr 29,11:03:08,NULL,NULL,NULL,client sent invalid protocol identifier,NULL
+3998677,Apr 29,11:03:15,NULL,NULL,NULL,client sent invalid protocol identifier,GET / HTTP/1.1
+3998982,Apr 29,11:05:40,NULL,NULL,NULL,client sent invalid protocol identifier,GET / HTTP/1.1
+3999049,Apr 29,11:06:12,NULL,NULL,NULL,banner line contains invalid characters,NULL
+4017548,Apr 29,13:33:53,NULL,NULL,NULL,client sent invalid protocol identifier,GET / HTTP/1.1
+4022378,Apr 29,14:12:49,192.155.90.118,36924,NULL,Connection closed,IP
+4022391,Apr 29,14:12:51,192.155.90.118,36940,NULL,Connection closed,IP
+4022393,Apr 29,14:12:53,192.155.90.118,29090,NULL,Connection closed,IP
+4025733,Apr 29,14:39:40,NULL,NULL,NULL,banner line contains invalid characters,NULL
+4025754,Apr 29,14:39:47,NULL,NULL,NULL,banner line contains invalid characters,NULL
+4025821,Apr 29,14:40:17,NULL,NULL,NULL,client sent invalid protocol identifier,GET http://passport.baidu.com/ HTTP/1.1
+4032878,Apr 29,15:36:45,NULL,NULL,NULL,banner line contains invalid characters,NULL
+4039699,Apr 29,16:31:37,NULL,NULL,NULL,Connection closed,IP
+4044856,Apr 29,17:13:02,NULL,NULL,NULL,Connection closed,IP
+4049846,Apr 29,17:52:55,NULL,NULL,NULL,Connection closed,IP
+4051551,Apr 29,18:06:28,NULL,NULL,NULL,Connection closed,IP
+4052390,Apr 29,18:13:14,NULL,NULL,NULL,Connection closed,IP
+4052432,Apr 29,18:13:35,NULL,NULL,NULL,Connection closed,IP
+4052627,Apr 29,18:15:03,NULL,NULL,NULL,Connection closed,IP
+4066914,Apr 29,20:08:41,45.79.181.104,43734,NULL,Connection closed,IP
+4066927,Apr 29,20:08:42,45.79.181.104,43738,NULL,Connection closed,IP
+4066929,Apr 29,20:08:44,45.79.181.104,43754,NULL,Connection closed,IP
+4069723,Apr 29,20:31:02,NULL,NULL,NULL,Connection closed,IP
+4071936,Apr 29,20:48:53,NULL,NULL,NULL,Connection closed,IP
+4073341,Apr 29,21:00:07,NULL,NULL,NULL,Connection closed,IP
+4073355,Apr 29,21:00:08,NULL,NULL,NULL,Connection closed,IP
+4073353,Apr 29,21:00:16,154.212.141.205,48190,NULL,Connection closed,IP
+4073356,Apr 29,21:00:18,154.212.141.215,63086,NULL,Connection closed,IP
+4075259,Apr 29,21:15:20,NULL,NULL,NULL,client sent invalid protocol identifier,MGLNDD_120.26.163.214_22
+4079478,Apr 29,21:49:01,NULL,NULL,NULL,banner line contains invalid characters,NULL
+4080245,Apr 29,21:55:12,NULL,NULL,NULL,banner line contains invalid characters,NULL
+4080964,Apr 29,22:01:08,167.94.138.53,53608,NULL,Connection closed,IP
+4083595,Apr 29,22:22:02,NULL,NULL,NULL,Connection closed,IP
+4083596,Apr 29,22:22:22,138.68.87.25,13394,NULL,Connection closed,IP
+4085143,Apr 29,22:34:26,NULL,NULL,root,Connection closed,IP
+4085156,Apr 29,22:34:27,NULL,NULL,root,Connection closed,IP
+4085159,Apr 29,22:34:27,NULL,NULL,root,Connection closed,IP
+4085161,Apr 29,22:34:28,NULL,NULL,root,Connection closed,IP
+4085163,Apr 29,22:34:29,NULL,NULL,root,Connection closed,IP
+4085165,Apr 29,22:34:30,NULL,NULL,root,Connection closed,IP
+4085167,Apr 29,22:34:30,NULL,NULL,root,Connection closed,IP
+4085169,Apr 29,22:34:31,NULL,NULL,root,Connection closed,IP
+4085181,Apr 29,22:34:32,NULL,NULL,root,Connection closed,IP
+4085183,Apr 29,22:34:33,NULL,NULL,root,Connection closed,IP
+4085185,Apr 29,22:34:34,NULL,NULL,root,Connection closed,IP
+4085187,Apr 29,22:34:34,NULL,NULL,root,Connection closed,IP
+4085189,Apr 29,22:34:35,NULL,NULL,root,Connection closed,IP
+4093575,Apr 29,23:41:41,NULL,NULL,NULL,Connection closed,IP
+4094982,Apr 29,23:52:56,NULL,NULL,NULL,Connection closed,IP
+4103032,Apr 30,00:56:42,209.38.206.136,27583,NULL,Connection reset,IP
+4104384,Apr 30,01:07:29,NULL,NULL,NULL,Connection closed,IP
+4106578,Apr 30,01:25:06,64.62.156.160,38463,64.62.156.160,Connection closed,invalid user
+4112828,Apr 30,02:14:42,192.155.90.220,49468,NULL,Connection closed,IP
+4112830,Apr 30,02:14:43,192.155.90.220,49476,NULL,Connection closed,IP
+4112832,Apr 30,02:14:45,192.155.90.220,49478,NULL,Connection closed,IP
+4113449,Apr 30,02:19:34,NULL,NULL,NULL,client sent invalid protocol identifier,MGLNDD_120.26.163.214_22
+4119441,Apr 30,03:07:29,167.94.138.44,40864,NULL,Connection closed,IP
+4119773,Apr 30,03:10:11,NULL,NULL,NULL,banner line contains invalid characters,NULL
+4119796,Apr 30,03:10:17,NULL,NULL,NULL,Connection reset,IP
+4124809,Apr 30,03:50:03,NULL,NULL,NULL,Connection closed,IP
+4126269,Apr 30,04:01:43,60.205.122.184,57154,60.205.122.184,Connection closed,invalid user
+4136738,Apr 30,05:24:59,NULL,NULL,NULL,banner line contains invalid characters,NULL
+4150608,Apr 30,07:14:49,NULL,NULL,NULL,Connection closed,IP
+4151284,Apr 30,07:20:08,NULL,NULL,NULL,Connection closed,IP
+4153216,Apr 30,07:35:35,NULL,NULL,NULL,Connection closed,IP
+4157351,Apr 30,08:08:35,NULL,NULL,NULL,client sent invalid protocol identifier,GET / HTTP/1.1
+4157666,Apr 30,08:11:12,172.104.11.34,36880,NULL,Connection closed,IP
+4157677,Apr 30,08:11:14,172.104.11.34,36888,NULL,Connection closed,IP
+4157679,Apr 30,08:11:16,172.104.11.34,36904,NULL,Connection closed,IP
+4161763,Apr 30,08:43:51,NULL,NULL,NULL,Connection closed,IP
+4162317,Apr 30,08:48:20,NULL,NULL,NULL,Connection closed,IP
+4162328,Apr 30,08:48:21,185.247.137.217,40813,NULL,Connection closed,IP
+4163543,Apr 30,08:58:13,NULL,NULL,NULL,Connection closed,IP
+4187897,Apr 30,12:13:31,NULL,NULL,NULL,Connection closed,IP
+4188214,Apr 30,12:15:57,NULL,NULL,NULL,banner line contains invalid characters,NULL
+4188215,Apr 30,12:16:16,NULL,NULL,NULL,Connection closed,IP
+4188249,Apr 30,12:16:17,101.36.97.80,54002,NULL,Connection closed,IP
+4188262,Apr 30,12:16:18,NULL,NULL,NULL,NULL,NULL
+7270,Apr 30,14:00:23,NULL,NULL,NULL,Connection closed,IP
+8626,Apr 30,14:11:20,172.236.228.202,46944,NULL,Connection closed,IP
+8628,Apr 30,14:11:21,172.236.228.202,46952,NULL,Connection closed,IP
+8640,Apr 30,14:11:23,172.236.228.202,46960,NULL,Connection closed,IP
+12082,Apr 30,14:38:57,NULL,NULL,NULL,Connection closed,IP
+33567,Apr 30,17:31:12,NULL,NULL,NULL,Connection closed,IP
+35582,Apr 30,17:47:17,NULL,NULL,NULL,Connection closed,IP
+43138,Apr 30,18:48:10,NULL,NULL,NULL,banner line contains invalid characters,NULL
+43777,Apr 30,18:53:20,NULL,NULL,NULL,client sent invalid protocol identifier,GET http://passport.baidu.com/ HTTP/1.1
+43809,Apr 30,18:53:35,NULL,NULL,NULL,banner line contains invalid characters,NULL
+43843,Apr 30,18:53:50,NULL,NULL,NULL,banner line contains invalid characters,NULL
+43986,Apr 30,18:54:56,NULL,NULL,NULL,client sent invalid protocol identifier,MGLNDD_120.26.163.214_22
+46568,Apr 30,19:15:38,NULL,NULL,NULL,banner line contains invalid characters,NULL
+53134,Apr 30,20:08:19,45.79.181.94,21436,NULL,Connection closed,IP
+53136,Apr 30,20:08:21,45.79.181.94,21440,NULL,Connection closed,IP
+53149,Apr 30,20:08:23,45.79.181.94,21454,NULL,Connection closed,IP
+76910,Apr 30,23:18:42,NULL,NULL,NULL,Connection reset,IP
+76911,Apr 30,23:18:53,NULL,NULL,NULL,Connection closed,IP
+76975,Apr 30,23:19:11,NULL,NULL,NULL,banner line contains invalid characters,NULL
+76976,Apr 30,23:19:14,NULL,NULL,NULL,Connection closed,IP
+77723,Apr 30,23:25:12,91.196.152.89,51797,NULL,Connection closed,IP
+77835,Apr 30,23:26:01,NULL,NULL,NULL,Connection closed,IP
+77880,Apr 30,23:26:21,91.196.152.123,47457,NULL,Connection closed,IP
+78487,Apr 30,23:31:13,NULL,NULL,NULL,Connection closed,IP
+88562,May  1,00:51:03,NULL,NULL,NULL,Connection closed,IP
+89797,May  1,01:00:58,64.62.156.66,17239,64.62.156.66,Connection closed,invalid user
+91473,May  1,01:14:14,NULL,NULL,NULL,Connection closed,IP
+96369,May  1,01:53:18,NULL,NULL,NULL,Connection closed,IP
+98422,May  1,02:09:47,172.236.228.245,63142,NULL,Connection closed,IP
+98434,May  1,02:09:49,172.236.228.245,63158,NULL,Connection closed,IP
+98436,May  1,02:09:50,172.236.228.245,63166,NULL,Connection closed,IP
+143456,May  1,08:08:36,172.236.228.224,32398,NULL,Connection closed,IP
+143469,May  1,08:08:37,172.236.228.224,32402,NULL,Connection closed,IP
+143471,May  1,08:08:39,172.236.228.224,32418,NULL,Connection closed,IP
+153616,May  1,09:30:02,NULL,NULL,NULL,client sent invalid protocol identifier,MGLNDD_120.26.163.214_22
+180176,May  1,13:02:47,167.94.146.52,54242,NULL,Connection closed,IP
+184294,May  1,13:35:32,NULL,NULL,NULL,Connection closed,IP
+185830,May  1,13:47:45,NULL,NULL,NULL,banner line contains invalid characters,NULL
+187415,May  1,14:00:25,NULL,NULL,NULL,Connection closed,IP
+188466,May  1,14:08:56,172.236.228.224,24228,NULL,Connection closed,IP
+188468,May  1,14:08:58,172.236.228.224,24232,NULL,Connection closed,IP
+188470,May  1,14:08:59,172.236.228.224,24244,NULL,Connection closed,IP
+188755,May  1,14:11:11,172.236.228.229,25096,NULL,Connection closed,IP
+188757,May  1,14:11:13,172.236.228.229,25098,NULL,Connection closed,IP
+188759,May  1,14:11:15,172.236.228.229,25100,NULL,Connection closed,IP
+194235,May  1,14:54:58,NULL,NULL,NULL,client sent invalid protocol identifier,GET / HTTP/1.1
+199387,May  1,15:35:57,NULL,NULL,NULL,banner line contains invalid characters,NULL
+201480,May  1,15:52:35,NULL,NULL,NULL,client sent invalid protocol identifier,GET / HTTP/1.1
+215383,May  1,17:43:46,NULL,NULL,NULL,banner line contains invalid characters,NULL
+215924,May  1,17:48:00,NULL,NULL,NULL,Connection closed,IP
+218173,May  1,18:06:03,NULL,NULL,NULL,banner line contains invalid characters,NULL
+218185,May  1,18:06:10,NULL,NULL,NULL,client sent invalid protocol identifier,GET http://passport.baidu.com/ HTTP/1.1
+218197,May  1,18:06:14,NULL,NULL,NULL,banner line contains invalid characters,NULL
+220000,May  1,18:20:33,NULL,NULL,NULL,Connection closed,IP
+226464,May  1,19:12:15,NULL,NULL,NULL,banner line contains invalid characters,NULL
+226465,May  1,19:12:19,NULL,NULL,NULL,client sent invalid protocol identifier,GET http://passport.baidu.com/ HTTP/1.1
+226486,May  1,19:12:28,NULL,NULL,NULL,banner line contains invalid characters,NULL
+233510,May  1,20:08:13,45.79.172.21,26398,NULL,Connection closed,IP
+233512,May  1,20:08:15,45.79.172.21,26404,NULL,Connection closed,IP
+233525,May  1,20:08:16,45.79.172.21,26416,NULL,Connection closed,IP
+233696,May  1,20:09:37,172.104.11.46,57766,NULL,Connection closed,IP
+233698,May  1,20:09:38,172.104.11.46,57776,NULL,Connection closed,IP
+233711,May  1,20:09:39,172.104.11.46,57786,NULL,Connection closed,IP
+248584,May  1,22:08:18,NULL,NULL,root,Connection closed,IP
+248586,May  1,22:08:20,NULL,NULL,root,Connection closed,IP
+248588,May  1,22:08:22,NULL,NULL,root,Connection closed,IP
+248601,May  1,22:08:24,NULL,NULL,root,Connection closed,IP
+248603,May  1,22:08:26,NULL,NULL,root,Connection closed,IP
+248605,May  1,22:08:28,NULL,NULL,root,Connection closed,IP
+248617,May  1,22:08:29,NULL,NULL,root,Connection closed,IP
+248619,May  1,22:08:31,NULL,NULL,root,Connection closed,IP
+248621,May  1,22:08:33,NULL,NULL,root,Connection closed,IP
+248632,May  1,22:08:35,NULL,NULL,root,Connection closed,IP
+248634,May  1,22:08:37,NULL,NULL,root,Connection closed,IP
+248636,May  1,22:08:39,NULL,NULL,root,Connection closed,IP
+248649,May  1,22:08:41,NULL,NULL,root,Connection closed,IP
+271996,May  2,01:14:48,NULL,NULL,NULL,client sent invalid protocol identifier,MGLNDD_120.26.163.214_22
+272185,May  2,01:16:20,64.62.197.122,50391,64.62.197.122,Connection closed,invalid user
+277140,May  2,01:55:42,NULL,NULL,NULL,banner line contains invalid characters,NULL
+277207,May  2,01:56:14,NULL,NULL,NULL,banner line contains invalid characters,NULL
+277219,May  2,01:56:19,NULL,NULL,NULL,client sent invalid protocol identifier,GET http://passport.baidu.com/ HTTP/1.1
+279307,May  2,02:13:00,NULL,NULL,NULL,Connection reset,IP
+279318,May  2,02:13:01,NULL,NULL,NULL,Connection reset,IP
+279319,May  2,02:13:04,172.236.228.86,24652,NULL,Connection closed,IP
+282636,May  2,02:39:23,NULL,NULL,NULL,Connection closed,IP
+283064,May  2,02:42:47,NULL,NULL,NULL,Connection closed,IP
+300649,May  2,05:02:52,NULL,NULL,NULL,Connection reset,IP
+300650,May  2,05:03:03,NULL,NULL,NULL,Connection closed,IP
+300728,May  2,05:03:28,NULL,NULL,NULL,banner line contains invalid characters,NULL
+300729,May  2,05:03:31,NULL,NULL,NULL,Connection closed,IP
+318521,May  2,07:24:49,NULL,NULL,NULL,Connection closed,IP
+320929,May  2,07:43:46,NULL,NULL,NULL,banner line contains invalid characters,NULL
+323992,May  2,08:08:17,45.79.181.104,61956,NULL,Connection closed,IP
+323994,May  2,08:08:18,45.79.181.104,61966,NULL,Connection closed,IP
+323996,May  2,08:08:19,45.79.181.104,61972,NULL,Connection closed,IP
+327453,May  2,08:36:15,199.45.154.138,49272,NULL,Connection closed,IP
+345000,May  2,10:56:30,NULL,NULL,NULL,Connection closed,IP
+347472,May  2,11:16:26,NULL,NULL,NULL,Connection closed,IP
+356095,May  2,12:25:24,NULL,NULL,NULL,Connection closed,IP
+369196,May  2,14:10:49,172.236.228.224,4348,NULL,Connection closed,IP
+369208,May  2,14:10:51,172.236.228.224,37224,NULL,Connection closed,IP
+369210,May  2,14:10:53,172.236.228.224,37226,NULL,Connection closed,IP
+379694,May  2,15:35:10,NULL,NULL,NULL,Connection closed,IP
+382867,May  2,16:00:38,NULL,NULL,NULL,banner line contains invalid characters,NULL
+383665,May  2,16:07:04,NULL,NULL,NULL,banner line contains invalid characters,NULL
+386253,May  2,16:27:52,NULL,NULL,NULL,Connection closed,IP
+386911,May  2,16:33:05,NULL,NULL,NULL,client sent invalid protocol identifier,MGLNDD_120.26.163.214_22
+392321,May  2,17:16:44,NULL,NULL,NULL,Connection closed,IP
+392322,May  2,17:16:58,120.0.52.8,62322,NULL,Connection closed,IP
+393367,May  2,17:25:13,185.242.226.20,38352,NULL,Connection closed,IP
+395228,May  2,17:40:00,NULL,NULL,NULL,banner line contains invalid characters,NULL
+396985,May  2,17:53:54,NULL,NULL,NULL,Connection reset,IP
+405038,May  2,18:58:13,NULL,NULL,NULL,Connection reset,IP
+412733,May  2,19:58:49,NULL,NULL,NULL,Connection closed,IP
+414314,May  2,20:11:33,172.236.228.245,52418,NULL,Connection closed,IP
+414316,May  2,20:11:35,172.236.228.245,52716,NULL,Connection closed,IP
+414329,May  2,20:11:37,172.236.228.245,52722,NULL,Connection closed,IP
+415053,May  2,20:17:20,NULL,NULL,NULL,Connection reset,IP
+419894,May  2,20:56:03,NULL,NULL,NULL,Connection closed,IP
+428690,May  2,22:06:37,NULL,NULL,NULL,Connection closed,IP
+434418,May  2,22:52:19,NULL,NULL,NULL,client sent invalid protocol identifier,GET / HTTP/1.1
+440544,May  2,23:41:26,NULL,NULL,NULL,client sent invalid protocol identifier,MGLNDD_120.26.163.214_22
+448638,May  3,00:45:43,NULL,NULL,NULL,Connection closed,IP
+450099,May  3,00:57:18,NULL,NULL,NULL,Connection closed,IP
+450817,May  3,01:03:00,NULL,NULL,NULL,client sent invalid protocol identifier,GET / HTTP/1.1
+450818,May  3,01:03:00,NULL,NULL,NULL,client sent invalid protocol identifier,GET / HTTP/1.1
+451988,May  3,01:12:22,65.49.1.37,61055,65.49.1.37,Connection closed,invalid user
+476408,May  3,04:26:34,NULL,NULL,NULL,banner line contains invalid characters,NULL
+479554,May  3,04:51:51,NULL,NULL,NULL,Connection closed,IP
+479564,May  3,04:51:52,87.236.176.177,36245,NULL,Connection closed,IP
+480624,May  3,05:00:31,162.142.125.213,40810,NULL,Connection closed,IP
+493183,May  3,06:39:49,NULL,NULL,NULL,client sent invalid protocol identifier,MGLNDD_120.26.163.214_22
+504448,May  3,08:09:47,192.155.90.220,41234,NULL,Connection closed,IP
+504450,May  3,08:09:49,192.155.90.220,41250,NULL,Connection closed,IP
+504452,May  3,08:09:50,192.155.90.220,41266,NULL,Connection closed,IP
+512712,May  3,09:16:02,NULL,NULL,NULL,Connection closed,IP
+512928,May  3,09:17:25,45.156.128.45,60935,NULL,Connection closed,IP
+516423,May  3,09:39:44,NULL,NULL,NULL,banner line contains invalid characters,NULL
+516473,May  3,09:42:07,NULL,NULL,NULL,NULL,NULL
+517034,May  3,09:44:37,NULL,NULL,NULL,Connection closed,IP
+521233,May  3,10:18:12,NULL,NULL,NULL,Connection closed,IP
+529230,May  3,11:22:25,NULL,NULL,NULL,client sent invalid protocol identifier,GET / HTTP/1.1
+539262,May  3,12:42:30,NULL,NULL,NULL,Connection closed,IP
+544492,May  3,13:25:03,NULL,NULL,NULL,banner line contains invalid characters,NULL
+544671,May  3,13:25:44,NULL,NULL,NULL,Connection closed,IP
+545293,May  3,13:30:42,NULL,NULL,NULL,banner line contains invalid characters,NULL
+549683,May  3,14:05:45,NULL,NULL,NULL,Connection closed,IP
+550138,May  3,14:09:27,45.79.181.104,27074,NULL,Connection closed,IP
+550140,May  3,14:09:29,45.79.181.104,27088,NULL,Connection closed,IP
+550153,May  3,14:09:30,45.79.181.104,27104,NULL,Connection closed,IP
+553838,May  3,14:38:53,NULL,NULL,NULL,banner line contains invalid characters,NULL
+554303,May  3,14:42:42,NULL,NULL,NULL,Connection closed,IP
+556743,May  3,15:02:05,NULL,NULL,NULL,banner line contains invalid characters,NULL
+564797,May  3,16:06:33,NULL,NULL,NULL,Connection closed,IP
+565546,May  3,16:12:46,167.94.146.56,46596,NULL,Connection closed,IP
+571435,May  3,16:59:37,NULL,NULL,NULL,client sent invalid protocol identifier,GET / HTTP/1.1
+573764,May  3,17:18:11,NULL,NULL,NULL,client sent invalid protocol identifier,GET / HTTP/1.1
+577337,May  3,17:46:42,NULL,NULL,NULL,Connection closed,IP
+578959,May  3,17:59:40,NULL,NULL,NULL,banner line contains invalid characters,NULL
+590937,May  3,19:35:18,NULL,NULL,NULL,Connection closed,IP
+595303,May  3,20:10:08,172.236.228.224,63776,NULL,Connection closed,IP
+595316,May  3,20:10:10,172.236.228.224,63780,NULL,Connection closed,IP
+595318,May  3,20:10:12,172.236.228.224,44356,NULL,Connection closed,IP
+595516,May  3,20:11:49,172.236.228.208,7470,NULL,Connection closed,IP
+595527,May  3,20:11:51,172.236.228.208,22248,NULL,Connection closed,IP
+595529,May  3,20:11:54,172.236.228.208,22256,NULL,Connection closed,IP
+604526,May  3,21:23:45,NULL,NULL,root,Connection closed,IP
+604528,May  3,21:23:47,NULL,NULL,root,Connection closed,IP
+604530,May  3,21:23:48,NULL,NULL,root,Connection closed,IP
+604543,May  3,21:23:50,NULL,NULL,root,Connection closed,IP
+604545,May  3,21:23:51,NULL,NULL,root,Connection closed,IP
+604547,May  3,21:23:54,NULL,NULL,root,Connection closed,IP
+604560,May  3,21:23:55,NULL,NULL,root,Connection closed,IP
+604562,May  3,21:23:56,NULL,NULL,root,Connection closed,IP
+604564,May  3,21:23:57,NULL,NULL,root,Connection closed,IP
+604566,May  3,21:23:58,NULL,NULL,root,Connection closed,IP
+604568,May  3,21:23:59,NULL,NULL,root,Connection closed,IP
+604581,May  3,21:24:01,NULL,NULL,root,Connection closed,IP
+604583,May  3,21:24:03,NULL,NULL,root,Connection closed,IP
+607570,May  3,21:47:50,NULL,NULL,NULL,Connection closed,IP
+611140,May  3,22:16:33,39.98.43.234,42704,NULL,Connection closed,IP
+614582,May  3,22:43:43,NULL,NULL,NULL,banner line contains invalid characters,NULL
+614734,May  3,22:44:45,NULL,NULL,NULL,banner line contains invalid characters,NULL
+617681,May  3,23:08:23,64.62.156.160,55047,64.62.156.160,Connection closed,invalid user
+2287015,Apr 20,00:12:59,NULL,NULL,NULL,Connection closed,IP
+2293623,Apr 20,01:05:29,NULL,NULL,NULL,Connection closed,IP
+2308593,Apr 20,03:04:41,NULL,NULL,NULL,Connection closed,IP
+2312278,Apr 20,03:33:59,NULL,NULL,NULL,Connection closed,IP
+2314399,Apr 20,03:51:24,NULL,NULL,NULL,banner line contains invalid characters,NULL
+2319338,Apr 20,04:30:06,NULL,NULL,NULL,client sent invalid protocol identifier,MGLNDD_120.26.163.214_22
+2325787,Apr 20,05:21:21,NULL,NULL,NULL,banner line contains invalid characters,NULL
+2331339,Apr 20,06:05:36,NULL,NULL,NULL,Connection closed,IP
+2333207,Apr 20,06:20:03,NULL,NULL,NULL,banner line contains invalid characters,NULL
+2341155,Apr 20,07:23:09,NULL,NULL,NULL,Connection closed,IP
+2346754,Apr 20,08:07:50,45.79.181.223,37762,NULL,Connection closed,IP
+2346765,Apr 20,08:07:51,45.79.181.223,37774,NULL,Connection closed,IP
+2346767,Apr 20,08:07:53,45.79.181.223,37784,NULL,Connection closed,IP
+2355831,Apr 20,09:20:10,NULL,NULL,NULL,Connection closed,IP
+2361868,Apr 20,10:08:26,NULL,NULL,NULL,Connection closed,IP
+2363608,Apr 20,10:22:19,NULL,NULL,NULL,Connection closed,IP
+2374425,Apr 20,11:42:40,NULL,NULL,NULL,Connection closed,IP
+2382651,Apr 20,12:48:30,167.94.138.197,52336,NULL,Connection closed,IP
+2392200,Apr 20,14:04:32,NULL,NULL,NULL,banner line contains invalid characters,NULL
+2392911,Apr 20,14:10:11,172.104.11.34,45046,NULL,Connection closed,IP
+2392913,Apr 20,14:10:13,172.104.11.34,47858,NULL,Connection closed,IP
+2392915,Apr 20,14:10:14,172.104.11.34,47874,NULL,Connection closed,IP
+2393252,Apr 20,14:12:54,NULL,NULL,NULL,Connection closed,IP
+2395289,Apr 20,14:29:06,NULL,NULL,NULL,Connection closed,IP
+2405852,Apr 20,15:53:21,NULL,NULL,NULL,Connection closed,IP
+2408266,Apr 20,16:12:29,NULL,NULL,NULL,client sent invalid protocol identifier,GET / HTTP/1.1
+2417435,Apr 20,17:25:52,NULL,NULL,NULL,banner line contains invalid characters,NULL
+2417469,Apr 20,17:26:04,NULL,NULL,NULL,client sent invalid protocol identifier,GET http://passport.baidu.com/ HTTP/1.1
+2417481,Apr 20,17:26:14,NULL,NULL,NULL,banner line contains invalid characters,NULL
+2422756,Apr 20,18:06:54,NULL,NULL,NULL,Connection closed,IP
+2441585,Apr 20,20:08:00,172.105.128.11,26956,NULL,Connection closed,IP
+2441598,Apr 20,20:08:01,172.105.128.11,26970,NULL,Connection closed,IP
+2441600,Apr 20,20:08:03,172.105.128.11,26980,NULL,Connection closed,IP
+2444970,Apr 20,20:34:57,NULL,NULL,NULL,client sent invalid protocol identifier,GET http://passport.baidu.com/ HTTP/1.1
+2445017,Apr 20,20:35:21,NULL,NULL,NULL,banner line contains invalid characters,NULL
+2445041,Apr 20,20:35:31,NULL,NULL,NULL,banner line contains invalid characters,NULL
+2449050,Apr 20,21:07:42,NULL,NULL,NULL,Connection closed,IP
+2449051,Apr 20,21:07:57,221.207.35.115,64872,NULL,Connection closed,IP
+2449730,Apr 20,21:13:06,NULL,NULL,NULL,Connection closed,IP
+2455103,Apr 20,21:55:50,NULL,NULL,NULL,banner line contains invalid characters,NULL
+2457625,Apr 20,22:15:56,NULL,NULL,NULL,Connection closed,IP
+2461972,Apr 20,22:50:41,NULL,NULL,NULL,Connection closed,IP
+2475546,Apr 21,00:38:39,NULL,NULL,NULL,Connection closed,IP
+2476342,Apr 21,00:45:00,NULL,NULL,NULL,banner line contains invalid characters,NULL
+2477255,Apr 21,00:52:20,65.49.1.207,14111,65.49.1.207,Connection closed,invalid user
+2478331,Apr 21,01:00:53,NULL,NULL,NULL,Connection closed,IP
+2483148,Apr 21,01:39:16,NULL,NULL,NULL,client sent invalid protocol identifier,MGLNDD_120.26.163.214_22
+2496044,Apr 21,03:21:43,NULL,NULL,NULL,client sent invalid protocol identifier,GET / HTTP/1.1
+2496402,Apr 21,03:24:41,NULL,NULL,NULL,Connection closed,IP
+2503235,Apr 21,04:19:15,NULL,NULL,NULL,Connection closed,IP
+2509735,Apr 21,05:11:06,NULL,NULL,NULL,banner line contains invalid characters,NULL
+2509736,Apr 21,05:11:07,NULL,NULL,NULL,client sent invalid protocol identifier,GET http://passport.baidu.com/ HTTP/1.1
+2509792,Apr 21,05:11:32,NULL,NULL,NULL,banner line contains invalid characters,NULL
+2514842,Apr 21,05:51:44,NULL,NULL,NULL,client sent invalid protocol identifier,GET / HTTP/1.1
+2514843,Apr 21,05:51:44,NULL,NULL,NULL,client sent invalid protocol identifier,GET / HTTP/1.1
+2516254,Apr 21,06:02:53,NULL,NULL,NULL,Connection closed,IP
+2520336,Apr 21,06:35:01,NULL,NULL,NULL,Connection closed,IP
+2521982,Apr 21,06:48:10,NULL,NULL,NULL,Connection closed,IP
+2530917,Apr 21,07:59:23,NULL,NULL,NULL,Connection closed,IP
+2532181,Apr 21,08:09:30,NULL,NULL,NULL,client sent invalid protocol identifier,GET / HTTP/1.1
+2540871,Apr 21,09:18:53,NULL,NULL,NULL,Connection closed,IP
+2541167,Apr 21,09:21:17,NULL,NULL,NULL,Connection reset,IP
+2541177,Apr 21,09:21:18,111.7.96.151,59166,111.7.96.151,Connection closed,invalid user
+2565412,Apr 21,12:36:07,NULL,NULL,NULL,client sent invalid protocol identifier,GET / HTTP/1.1
+2565413,Apr 21,12:36:07,NULL,NULL,NULL,client sent invalid protocol identifier,GET / HTTP/1.1
+2570787,Apr 21,13:19:22,71.6.232.28,37300,NULL,Connection closed,IP
+2571521,Apr 21,13:25:04,NULL,NULL,NULL,banner line contains invalid characters,NULL
+2574215,Apr 21,13:46:44,64.227.97.195,56860,NULL,Connection closed,IP
+2581026,Apr 21,14:41:12,NULL,NULL,NULL,Connection closed,IP
+2582963,Apr 21,14:56:35,NULL,NULL,NULL,banner line contains invalid characters,NULL
+2598669,Apr 21,17:02:46,NULL,NULL,NULL,client sent invalid protocol identifier,MGLNDD_120.26.163.214_22
+2605175,Apr 21,17:54:58,NULL,NULL,NULL,Connection closed,IP
+2605922,Apr 21,18:01:13,106.75.210.141,35922,NULL,Connection closed,IP
+2607131,Apr 21,18:10:40,NULL,NULL,NULL,Connection closed,IP
+2608578,Apr 21,18:22:07,NULL,NULL,NULL,banner line contains invalid characters,NULL
+2612870,Apr 21,18:56:33,NULL,NULL,NULL,Connection closed,IP
+2616823,Apr 21,19:28:10,NULL,NULL,NULL,Connection closed,IP
+2621994,Apr 21,20:09:35,45.79.181.251,18962,NULL,Connection closed,IP
+2621996,Apr 21,20:09:36,45.79.181.251,18970,NULL,Connection closed,IP
+2632922,Apr 21,21:37:03,NULL,NULL,NULL,banner line contains invalid characters,NULL
+2634702,Apr 21,21:51:15,NULL,NULL,NULL,Connection reset,IP
+2634930,Apr 21,21:53:04,NULL,NULL,NULL,Connection reset,IP
+2635186,Apr 21,21:55:05,NULL,NULL,NULL,Connection reset,IP
+2637247,Apr 21,22:11:34,NULL,NULL,NULL,client sent invalid protocol identifier,GET / HTTP/1.1
+2639075,Apr 21,22:26:06,NULL,NULL,NULL,Connection reset,IP
+2639076,Apr 21,22:26:11,NULL,NULL,NULL,Connection reset,IP
+2639088,Apr 21,22:26:13,NULL,NULL,NULL,Connection reset,IP
+2639386,Apr 21,22:28:34,NULL,NULL,NULL,Connection reset,IP
+2640399,Apr 21,22:36:39,NULL,NULL,NULL,Connection reset,IP
+2657081,Apr 22,00:49:04,65.49.1.135,21455,65.49.1.135,Connection closed,invalid user
+2663408,Apr 22,01:39:34,NULL,NULL,NULL,Connection closed,IP
+2666398,Apr 22,02:03:31,NULL,NULL,NULL,Connection closed,IP
+2671035,Apr 22,02:40:29,NULL,NULL,NULL,banner line contains invalid characters,NULL
+2675096,Apr 22,03:12:40,NULL,NULL,NULL,Connection closed,IP
+2675097,Apr 22,03:12:50,NULL,NULL,NULL,Connection closed,IP
+2675140,Apr 22,03:13:04,NULL,NULL,NULL,banner line contains invalid characters,NULL
+2675141,Apr 22,03:13:07,NULL,NULL,NULL,Connection closed,IP
+2680097,Apr 22,03:52:37,18.97.5.110,42948,18.97.5.110,Connection closed,invalid user
+2699587,Apr 22,06:27:56,NULL,NULL,NULL,Connection closed,IP
+2707691,Apr 22,07:32:19,NULL,NULL,NULL,Connection closed,IP
+2709829,Apr 22,07:49:33,167.94.146.61,37812,NULL,Connection closed,IP
+2716337,Apr 22,08:41:33,NULL,NULL,NULL,client sent invalid protocol identifier,GET / HTTP/1.1
+2720087,Apr 22,09:11:26,NULL,NULL,NULL,Connection closed,IP
+2726937,Apr 22,10:05:34,NULL,NULL,NULL,Connection closed,IP
+2731871,Apr 22,10:45:07,NULL,NULL,NULL,banner line contains invalid characters,NULL
+2731872,Apr 22,10:45:08,NULL,NULL,NULL,client sent invalid protocol identifier,GET / HTTP/1.1
+2731905,Apr 22,10:45:24,101.251.238.174,46366,NULL,Connection closed,IP
+2731939,Apr 22,10:45:40,101.251.238.174,59088,NULL,DH GEX group out of range,NULL
+2732016,Apr 22,10:46:14,101.251.238.174,60784,NULL,DH GEX group out of range,NULL
+2732062,Apr 22,10:46:35,101.251.238.174,45460,NULL,DH GEX group out of range,NULL
+2732086,Apr 22,10:46:49,101.251.238.174,44952,NULL,DH GEX group out of range,NULL
+2732120,Apr 22,10:47:04,101.251.238.174,59734,NULL,DH GEX group out of range,NULL
+2732177,Apr 22,10:47:28,101.251.238.174,41374,NULL,Connection closed,IP
+2736737,Apr 22,11:23:55,NULL,NULL,NULL,Connection closed,IP
+2744398,Apr 22,12:24:54,NULL,NULL,NULL,Connection closed,IP
+2745551,Apr 22,12:34:07,NULL,NULL,NULL,Connection closed,IP
+2745615,Apr 22,12:34:39,NULL,NULL,NULL,Connection closed,IP
+2745616,Apr 22,12:34:53,154.212.141.144,46730,NULL,Connection closed,IP
+2757339,Apr 22,14:08:36,45.79.181.94,13218,NULL,Connection closed,IP
+2757341,Apr 22,14:08:38,45.79.181.94,13228,NULL,Connection closed,IP
+2757354,Apr 22,14:08:40,45.79.181.94,31786,NULL,Connection closed,IP
+2761453,Apr 22,14:41:37,47.106.243.7,53534,47.106.243.7,Connection closed,invalid user
+2763240,Apr 22,14:55:52,NULL,NULL,NULL,Connection closed,IP
+2763252,Apr 22,14:55:53,185.247.137.226,57319,NULL,Connection closed,IP
+2767057,Apr 22,15:26:24,14.63.221.134,28566,14.63.221.134,Connection closed,invalid user
+2771356,Apr 22,16:00:34,NULL,NULL,NULL,Connection closed,IP
+2771357,Apr 22,16:00:35,92.255.57.55,50952,NULL,Connection closed,IP
+2776188,Apr 22,16:38:57,NULL,NULL,NULL,banner line contains invalid characters,NULL
+2777791,Apr 22,16:51:34,NULL,NULL,NULL,banner line contains invalid characters,NULL
+2780476,Apr 22,17:13:09,NULL,NULL,NULL,banner line contains invalid characters,NULL
+2789840,Apr 22,18:27:37,NULL,NULL,NULL,Connection closed,IP
+2796245,Apr 22,19:18:49,NULL,NULL,NULL,banner line contains invalid characters,NULL
+2796920,Apr 22,19:24:13,NULL,NULL,NULL,banner line contains invalid characters,NULL
+2799044,Apr 22,19:41:12,NULL,NULL,NULL,client sent invalid protocol identifier,MGLNDD_120.26.163.214_22
+2800057,Apr 22,19:49:16,NULL,NULL,NULL,client sent invalid protocol identifier,GET / HTTP/1.1
+2802498,Apr 22,20:08:48,NULL,NULL,NULL,Connection closed,IP
+2802499,Apr 22,20:08:48,223.113.128.188,50698,NULL,Connection closed,IP
+2802512,Apr 22,20:08:49,223.113.128.188,52932,NULL,Connection closed,IP
+2816190,Apr 22,21:58:21,NULL,NULL,NULL,banner line contains invalid characters,NULL
+2838462,Apr 23,00:55:51,64.226.79.183,24815,NULL,Connection reset,IP
+2839939,Apr 23,01:07:46,NULL,NULL,NULL,Connection closed,IP
+2840884,Apr 23,01:15:13,NULL,NULL,NULL,Connection closed,IP
+2841766,Apr 23,01:22:15,NULL,NULL,NULL,Connection closed,IP
+2842074,Apr 23,01:24:43,NULL,NULL,NULL,Connection closed,IP
+2843488,Apr 23,01:36:02,NULL,NULL,NULL,client sent invalid protocol identifier,NULL
+2844395,Apr 23,01:43:18,64.62.156.137,13423,64.62.156.137,Connection closed,invalid user
+2857265,Apr 23,03:25:50,NULL,NULL,NULL,Connection closed,IP
+2868094,Apr 23,04:52:18,NULL,NULL,NULL,Connection reset,IP
+2868106,Apr 23,04:52:21,123.160.221.135,29650,123.160.221.135,Connection closed,invalid user
+2878345,Apr 23,06:13:42,1.192.202.103,50924,NULL,Connection closed,IP
+2881732,Apr 23,06:40:36,49.234.53.181,58352,49.234.53.181,Connection closed,invalid user
+2884197,Apr 23,07:00:05,NULL,NULL,NULL,Connection closed,IP
+2887623,Apr 23,07:27:36,NULL,NULL,NULL,Connection closed,IP
+2892863,Apr 23,08:09:32,192.155.90.118,15282,NULL,Connection closed,IP
+2892876,Apr 23,08:09:34,192.155.90.118,15286,NULL,Connection closed,IP
+2892878,Apr 23,08:09:35,192.155.90.118,15288,NULL,Connection closed,IP
+2895147,Apr 23,08:28:01,162.142.125.124,50784,NULL,Connection closed,IP
+2903751,Apr 23,09:36:42,NULL,NULL,NULL,banner line contains invalid characters,NULL
+2903818,Apr 23,09:37:17,47.92.240.17,48538,NULL,Connection closed,IP
+2905031,Apr 23,09:46:59,NULL,NULL,NULL,banner line contains invalid characters,NULL
+2905836,Apr 23,09:53:27,NULL,NULL,root,Connection closed,IP
+2905838,Apr 23,09:53:29,NULL,NULL,root,Connection closed,IP
+2905850,Apr 23,09:53:30,NULL,NULL,root,Connection closed,IP
+2905852,Apr 23,09:53:32,NULL,NULL,root,Connection closed,IP
+2905854,Apr 23,09:53:34,NULL,NULL,root,Connection closed,IP
+2905857,Apr 23,09:53:36,NULL,NULL,root,Connection closed,IP
+2905860,Apr 23,09:53:37,NULL,NULL,root,Connection closed,IP
+2905862,Apr 23,09:53:39,NULL,NULL,root,Connection closed,IP
+2905874,Apr 23,09:53:41,NULL,NULL,root,Connection closed,IP
+2905876,Apr 23,09:53:42,NULL,NULL,root,Connection closed,IP
+2905878,Apr 23,09:53:44,NULL,NULL,root,Connection closed,IP
+2905890,Apr 23,09:53:45,NULL,NULL,root,Connection closed,IP
+2905892,Apr 23,09:53:47,NULL,NULL,root,Connection closed,IP
+2907430,Apr 23,10:06:11,NULL,NULL,NULL,Connection reset,IP
+2907961,Apr 23,10:10:21,NULL,NULL,NULL,banner line contains invalid characters,NULL
+2908189,Apr 23,10:12:15,NULL,NULL,NULL,banner line contains invalid characters,NULL
+2908188,Apr 23,10:12:15,NULL,NULL,NULL,Connection closed,IP
+2914893,Apr 23,11:05:26,NULL,NULL,NULL,client sent invalid protocol identifier,MGLNDD_120.26.163.214_22
+2917575,Apr 23,11:26:55,NULL,NULL,NULL,Connection closed,IP
+2923933,Apr 23,12:17:33,NULL,NULL,NULL,Connection closed,IP
+2924870,Apr 23,12:25:02,NULL,NULL,NULL,Connection closed,IP
+2931753,Apr 23,13:20:01,NULL,NULL,NULL,Connection closed,IP
+2937238,Apr 23,14:03:22,NULL,NULL,NULL,Connection closed,IP
+2942649,Apr 23,14:46:43,191.96.208.154,23605,NULL,Connection closed,IP
+2950888,Apr 23,15:52:49,NULL,NULL,NULL,client sent invalid protocol identifier,GET / HTTP/1.1
+2953642,Apr 23,16:14:52,NULL,NULL,NULL,Connection closed,IP
+2956680,Apr 23,16:39:16,NULL,NULL,NULL,banner line contains invalid characters,NULL
+2957338,Apr 23,16:44:30,NULL,NULL,NULL,banner line contains invalid characters,NULL
+2973772,Apr 23,18:55:53,NULL,NULL,NULL,Connection reset,IP
+2982636,Apr 23,20:06:10,125.44.183.10,35632,NULL,Connection reset,IP
+3022847,Apr 24,01:26:55,64.62.156.24,3933,64.62.156.24,Connection closed,invalid user
+3026712,Apr 24,01:57:41,NULL,NULL,NULL,Connection closed,IP
+3032173,Apr 24,02:41:07,94.102.49.193,59642,NULL,Connection closed,IP
+3032175,Apr 24,02:41:11,94.102.49.193,60756,NULL,Connection closed,IP
+3035216,Apr 24,03:05:17,NULL,NULL,NULL,Connection reset,IP
+3035217,Apr 24,03:05:27,NULL,NULL,NULL,Connection closed,IP
+3035401,Apr 24,03:06:46,NULL,NULL,NULL,banner line contains invalid characters,NULL
+3035402,Apr 24,03:06:50,NULL,NULL,NULL,Connection closed,IP
+3041178,Apr 24,03:52:50,NULL,NULL,NULL,client sent invalid protocol identifier,NULL
+3041884,Apr 24,03:58:27,NULL,NULL,NULL,banner line contains invalid characters,NULL
+3043279,Apr 24,04:09:34,NULL,NULL,NULL,Connection closed,IP
+3051729,Apr 24,05:16:49,NULL,NULL,NULL,Connection closed,IP
+3054506,Apr 24,05:38:58,NULL,NULL,NULL,Connection closed,IP
+3065892,Apr 24,07:09:07,NULL,NULL,NULL,Connection closed,IP
+3090436,Apr 24,10:25:26,NULL,NULL,NULL,banner line contains invalid characters,NULL
+3093832,Apr 24,10:52:45,NULL,NULL,NULL,banner line contains invalid characters,NULL
+3098061,Apr 24,11:26:54,167.94.145.101,40682,NULL,Connection closed,IP
+3100600,Apr 24,11:46:54,NULL,NULL,NULL,Connection closed,IP
+3103988,Apr 24,12:09:56,NULL,NULL,NULL,Connection closed,IP
+3107331,Apr 24,12:36:38,NULL,NULL,NULL,client sent invalid protocol identifier,GET / HTTP/1.1
+3107503,Apr 24,12:37:58,NULL,NULL,NULL,banner line contains invalid characters,NULL
+3110220,Apr 24,12:59:52,NULL,NULL,NULL,Connection closed,IP
+3112248,Apr 24,13:16:00,NULL,NULL,NULL,banner line contains invalid characters,NULL
+3113226,Apr 24,13:23:43,NULL,NULL,NULL,Connection closed,IP
+3117279,Apr 24,13:56:08,NULL,NULL,NULL,client sent invalid protocol identifier,MGLNDD_120.26.163.214_22
+3118685,Apr 24,14:07:21,NULL,NULL,NULL,Connection closed,IP
+3121518,Apr 24,14:30:02,NULL,NULL,NULL,client sent invalid protocol identifier,GET / HTTP/1.1
+3121519,Apr 24,14:30:02,NULL,NULL,NULL,client sent invalid protocol identifier,GET / HTTP/1.1
+3146872,Apr 24,17:52:09,NULL,NULL,NULL,banner line contains invalid characters,NULL
+3146884,Apr 24,17:52:28,NULL,NULL,NULL,Connection closed,IP
+3146918,Apr 24,17:52:28,156.229.16.142,58640,NULL,Connection closed,IP
+3146920,Apr 24,17:52:29,NULL,NULL,NULL,NULL,NULL
+3152269,Apr 24,18:35:08,NULL,NULL,NULL,Connection closed,IP
+3154140,Apr 24,18:50:09,NULL,NULL,NULL,Connection closed,IP
+3163767,Apr 24,20:06:58,NULL,NULL,NULL,Connection closed,IP
+3176679,Apr 24,21:50:03,NULL,NULL,NULL,client sent invalid protocol identifier,GET / HTTP/1.1
+3178676,Apr 24,22:05:59,NULL,NULL,NULL,Connection closed,IP
+3186328,Apr 24,23:06:56,65.49.1.202,53563,65.49.1.202,Connection closed,invalid user
+3192616,Apr 24,23:56:51,NULL,NULL,NULL,client sent invalid protocol identifier,GET / HTTP/1.1
+3192617,Apr 24,23:56:51,NULL,NULL,NULL,client sent invalid protocol identifier,GET / HTTP/1.1
+3197693,Apr 25,00:36:56,NULL,NULL,NULL,Connection closed,IP
+3199415,Apr 25,00:50:41,NULL,NULL,NULL,Connection closed,IP
+3203249,Apr 25,01:21:17,NULL,NULL,NULL,Connection closed,IP
+3207359,Apr 25,01:53:48,106.15.203.206,44800,106.15.203.206,Connection closed,invalid user
+3207646,Apr 25,01:56:07,47.239.245.146,57364,47.239.245.146,Connection closed,invalid user
+3209467,Apr 25,02:10:29,45.79.128.205,63540,NULL,Connection closed,IP
+3209469,Apr 25,02:10:30,45.79.128.205,41728,NULL,Connection closed,IP
+3209471,Apr 25,02:10:32,45.79.128.205,41740,NULL,Connection closed,IP
+3218016,Apr 25,03:18:31,NULL,NULL,NULL,Connection closed,IP
+3218028,Apr 25,03:18:32,87.236.176.100,38975,NULL,Connection closed,IP
+3222531,Apr 25,03:54:26,NULL,NULL,NULL,Connection closed,IP
+3225767,Apr 25,04:20:15,NULL,NULL,NULL,Connection closed,IP
+3228535,Apr 25,04:42:18,NULL,NULL,NULL,client sent invalid protocol identifier,MGLNDD_120.26.163.214_22
+3241350,Apr 25,06:24:02,NULL,NULL,NULL,Connection closed,IP
+3244189,Apr 25,06:46:27,NULL,NULL,NULL,Connection closed,IP
+3247127,Apr 25,07:10:14,NULL,NULL,root,Connection closed,IP
+3247770,Apr 25,07:15:07,NULL,NULL,NULL,Connection closed,IP
+3248495,Apr 25,07:21:03,179.84.198.41,26893,NULL,Connection reset,IP
+3252177,Apr 25,07:50:25,NULL,NULL,NULL,banner line contains invalid characters,NULL
+3254405,Apr 25,08:08:12,NULL,NULL,root,Connection closed,IP
+3254723,Apr 25,08:10:34,NULL,NULL,NULL,Connection closed,IP
+3261889,Apr 25,09:08:12,NULL,NULL,root,Connection closed,IP
+3267115,Apr 25,09:49:43,NULL,NULL,NULL,Connection closed,IP
+3267224,Apr 25,09:50:36,NULL,NULL,root,Connection closed,IP
+3267226,Apr 25,09:50:38,NULL,NULL,root,Connection closed,IP
+3267228,Apr 25,09:50:39,NULL,NULL,root,Connection closed,IP
+3267240,Apr 25,09:50:41,NULL,NULL,root,Connection closed,IP
+3267242,Apr 25,09:50:42,NULL,NULL,root,Connection closed,IP
+3267244,Apr 25,09:50:44,NULL,NULL,root,Connection closed,IP
+3267246,Apr 25,09:50:46,NULL,NULL,root,Connection closed,IP
+3267257,Apr 25,09:50:47,NULL,NULL,root,Connection closed,IP
+3267259,Apr 25,09:50:49,NULL,NULL,root,Connection closed,IP
+3267261,Apr 25,09:50:50,NULL,NULL,root,Connection closed,IP
+3267274,Apr 25,09:50:52,NULL,NULL,root,Connection closed,IP
+3267276,Apr 25,09:50:54,NULL,NULL,root,Connection closed,IP
+3267278,Apr 25,09:50:55,NULL,NULL,root,Connection closed,IP
+3268301,Apr 25,09:59:16,NULL,NULL,NULL,banner line contains invalid characters,NULL
+3268529,Apr 25,10:01:09,39.106.156.142,36814,NULL,NULL,NULL
+3268529,Apr 25,10:01:09,39.106.156.142,36814,NULL,NULL,NULL
+3269428,Apr 25,10:08:11,NULL,NULL,root,Connection closed,IP
+3272863,Apr 25,10:35:34,176.215.1.191,36010,NULL,Connection closed,IP
+3276940,Apr 25,11:08:13,NULL,NULL,root,Connection closed,IP
+3284460,Apr 25,12:08:15,NULL,NULL,root,Connection closed,IP
+3294445,Apr 25,13:27:56,NULL,NULL,NULL,Connection closed,IP
+3295983,Apr 25,13:39:38,NULL,NULL,NULL,Connection closed,IP
+3299456,Apr 25,14:07:37,NULL,NULL,root,Connection closed,IP
+3301551,Apr 25,14:24:23,94.247.130.174,56220,94.247.130.174,Connection closed,invalid user
+3306578,Apr 25,15:04:49,NULL,NULL,root,Connection closed,IP
+3312760,Apr 25,15:54:20,NULL,NULL,NULL,Connection reset,IP
+3317792,Apr 25,16:34:44,NULL,NULL,NULL,banner line contains invalid characters,NULL
+3322774,Apr 25,17:14:48,20.65.195.19,33592,NULL,Connection closed,IP
+3328989,Apr 25,18:04:20,NULL,NULL,NULL,Connection closed,IP
+3331322,Apr 25,18:22:57,NULL,NULL,NULL,Connection closed,IP
+3342334,Apr 25,19:51:01,NULL,NULL,NULL,client sent invalid protocol identifier,GET / HTTP/1.1
+3348997,Apr 25,20:44:24,199.45.154.123,42246,NULL,Connection closed,IP
+3361363,Apr 25,22:22:18,185.242.226.20,60184,NULL,Connection closed,IP
+3364463,Apr 25,22:46:48,64.62.197.165,23803,64.62.197.165,Connection closed,invalid user
+3365747,Apr 25,22:57:15,104.234.115.224,42996,NULL,Connection closed,IP
+3368564,Apr 25,23:19:29,NULL,NULL,NULL,Connection closed,IP
+3371800,Apr 25,23:45:20,178.62.216.207,47270,NULL,Connection closed,IP
+3377503,Apr 26,00:30:35,NULL,NULL,NULL,client sent invalid protocol identifier,MGLNDD_120.26.163.214_22
+3386360,Apr 26,01:41:17,NULL,NULL,NULL,Connection closed,IP
+3391276,Apr 26,02:19:59,NULL,NULL,NULL,Connection closed,IP
+3391648,Apr 26,02:22:56,NULL,NULL,NULL,Connection closed,IP
+3393128,Apr 26,02:34:46,NULL,NULL,NULL,Connection closed,IP
+3398371,Apr 26,03:16:35,NULL,NULL,NULL,Connection closed,IP
+3398372,Apr 26,03:16:46,NULL,NULL,NULL,Connection closed,IP
+3398452,Apr 26,03:17:12,NULL,NULL,NULL,banner line contains invalid characters,NULL
+3398453,Apr 26,03:17:15,NULL,NULL,NULL,Connection closed,IP
+3398968,Apr 26,03:21:21,NULL,NULL,NULL,Connection closed,IP
+3399233,Apr 26,03:23:27,91.196.152.111,39949,NULL,Connection closed,IP
+3399356,Apr 26,03:24:24,91.196.152.221,46771,NULL,Connection closed,IP
+3402094,Apr 26,03:45:55,NULL,NULL,NULL,Connection closed,IP
+3405092,Apr 26,04:09:53,NULL,NULL,NULL,Connection reset,IP
+3407013,Apr 26,04:25:05,NULL,NULL,NULL,Connection closed,IP
+3408886,Apr 26,04:40:01,NULL,NULL,NULL,Connection closed,IP
+3416224,Apr 26,05:38:23,NULL,NULL,NULL,Connection closed,IP
+3422349,Apr 26,06:26:52,NULL,NULL,NULL,client sent invalid protocol identifier,MGLNDD_120.26.163.214_22
+3423109,Apr 26,06:32:55,NULL,NULL,NULL,Connection closed,IP
+3431892,Apr 26,07:42:53,NULL,NULL,NULL,Connection closed,IP
+3437076,Apr 26,08:24:22,NULL,NULL,NULL,banner line contains invalid characters,NULL
+3438010,Apr 26,08:31:47,NULL,NULL,NULL,banner line contains invalid characters,NULL
+3444654,Apr 26,09:25:05,NULL,NULL,NULL,Connection closed,IP
+3459328,Apr 26,11:22:46,NULL,NULL,NULL,Connection closed,IP
+3467059,Apr 26,12:24:44,NULL,NULL,NULL,client sent invalid protocol identifier,GET / HTTP/1.1
+3470771,Apr 26,12:54:23,NULL,NULL,NULL,Connection closed,IP
+3472464,Apr 26,13:07:58,NULL,NULL,NULL,Connection closed,IP
+3488571,Apr 26,15:16:17,NULL,NULL,NULL,Connection closed,IP
+3491965,Apr 26,15:43:33,NULL,NULL,NULL,Connection closed,IP
+3494944,Apr 26,16:07:32,167.94.146.56,40274,NULL,Connection closed,IP
+3509802,Apr 26,18:06:00,NULL,NULL,NULL,banner line contains invalid characters,NULL
+3510136,Apr 26,18:09:34,47.108.74.203,33716,NULL,NULL,NULL
+3510136,Apr 26,18:09:34,47.108.74.203,33716,NULL,NULL,NULL
+3514655,Apr 26,18:44:34,NULL,NULL,NULL,banner line contains invalid characters,NULL
+3517283,Apr 26,19:05:47,NULL,NULL,root,Connection closed,IP
+3518524,Apr 26,19:15:28,NULL,NULL,NULL,Connection closed,IP
+3518525,Apr 26,19:15:43,60.16.192.168,32224,NULL,Connection closed,IP
+3520025,Apr 26,19:27:34,NULL,NULL,NULL,client sent invalid protocol identifier,GET /Tif9 HTTP/1.1
+3520027,Apr 26,19:27:35,NULL,NULL,NULL,client sent invalid protocol identifier,GET /jquery-3.3.1.min.js HTTP/1.1
+3520039,Apr 26,19:27:35,NULL,NULL,NULL,banner line contains invalid characters,NULL
+3522902,Apr 26,19:50:30,NULL,NULL,root,Connection closed,IP
+3522915,Apr 26,19:50:31,146.190.159.64,46818,NULL,Connection closed,IP
+3522917,Apr 26,19:50:32,146.190.159.64,46830,NULL,Connection closed,IP
+3523236,Apr 26,19:53:16,NULL,NULL,NULL,Connection closed,IP
+3524338,Apr 26,20:02:05,NULL,NULL,root,Connection closed,IP
+3524813,Apr 26,20:05:39,NULL,NULL,NULL,Connection closed,IP
+3531855,Apr 26,21:02:09,NULL,NULL,root,Connection closed,IP
+3539343,Apr 26,22:01:47,NULL,NULL,NULL,banner line contains invalid characters,NULL
+3539364,Apr 26,22:02:09,NULL,NULL,root,Connection closed,IP
+3542921,Apr 26,22:30:17,NULL,NULL,NULL,Connection closed,IP
+3546894,Apr 26,23:02:11,NULL,NULL,root,Connection closed,IP
+3551946,Apr 26,23:42:26,65.49.1.96,33985,65.49.1.96,Connection closed,invalid user
+3552722,Apr 26,23:48:31,NULL,NULL,NULL,Connection closed,IP
+1024443,Apr 13,00:29:19,NULL,NULL,NULL,Connection closed,IP
+1026712,Apr 13,00:47:23,NULL,NULL,NULL,client sent invalid protocol identifier,MGLNDD_120.26.163.214_22
+1027255,Apr 13,00:51:48,NULL,NULL,root,Connection closed,IP
+1027267,Apr 13,00:51:48,NULL,NULL,root,Connection closed,IP
+1027269,Apr 13,00:51:49,NULL,NULL,root,Connection closed,IP
+1027271,Apr 13,00:51:50,NULL,NULL,root,Connection closed,IP
+1027273,Apr 13,00:51:51,NULL,NULL,root,Connection closed,IP
+1027275,Apr 13,00:51:52,NULL,NULL,root,Connection closed,IP
+1027277,Apr 13,00:51:52,NULL,NULL,root,Connection closed,IP
+1027290,Apr 13,00:51:53,NULL,NULL,root,Connection closed,IP
+1027292,Apr 13,00:51:54,NULL,NULL,root,Connection closed,IP
+1027294,Apr 13,00:51:55,NULL,NULL,root,Connection closed,IP
+1027296,Apr 13,00:51:55,NULL,NULL,root,Connection closed,IP
+1027298,Apr 13,00:51:56,NULL,NULL,root,Connection closed,IP
+1027300,Apr 13,00:51:57,NULL,NULL,root,Connection closed,IP
+1034028,Apr 13,01:45:26,47.92.224.204,41962,NULL,Connection closed,IP
+1036920,Apr 13,02:08:19,172.105.128.11,41642,NULL,Connection closed,IP
+1036922,Apr 13,02:08:21,172.105.128.11,41644,NULL,Connection closed,IP
+1036934,Apr 13,02:08:22,172.105.128.11,41652,NULL,Connection closed,IP
+1038485,Apr 13,02:20:44,NULL,NULL,NULL,Connection closed,IP
+1046828,Apr 13,03:27:29,NULL,NULL,NULL,banner line contains invalid characters,NULL
+1046873,Apr 13,03:27:50,NULL,NULL,NULL,client sent invalid protocol identifier,GET http://passport.baidu.com/ HTTP/1.1
+1046874,Apr 13,03:27:51,NULL,NULL,NULL,banner line contains invalid characters,NULL
+1054387,Apr 13,04:27:44,NULL,NULL,NULL,client sent invalid protocol identifier,\376\b\001adminSSH-2.0-OpenSSH_7.4
+1060128,Apr 13,05:13:33,NULL,NULL,NULL,banner line contains invalid characters,NULL
+1060767,Apr 13,05:18:31,NULL,NULL,NULL,banner line contains invalid characters,NULL
+1060768,Apr 13,05:18:31,NULL,NULL,NULL,client sent invalid protocol identifier,GET / HTTP/1.1
+1060791,Apr 13,05:18:40,NULL,NULL,NULL,banner line contains invalid characters,NULL
+1060794,Apr 13,05:18:41,NULL,NULL,NULL,client sent invalid protocol identifier,GET / HTTP/1.1
+1060792,Apr 13,05:18:41,101.251.238.172,41008,NULL,Connection closed,IP
+1060817,Apr 13,05:18:51,101.251.238.172,52148,NULL,DH GEX group out of range,NULL
+1060830,Apr 13,05:18:55,101.251.238.172,52150,NULL,Connection closed,IP
+1060832,Apr 13,05:18:55,101.251.238.172,52162,NULL,DH GEX group out of range,NULL
+1060856,Apr 13,05:19:11,101.251.238.172,35886,NULL,DH GEX group out of range,NULL
+1060867,Apr 13,05:19:13,101.251.238.172,35900,NULL,DH GEX group out of range,NULL
+1060902,Apr 13,05:19:27,101.251.238.172,50942,NULL,DH GEX group out of range,NULL
+1060936,Apr 13,05:19:44,101.251.238.172,47042,NULL,DH GEX group out of range,NULL
+1060971,Apr 13,05:20:03,101.251.238.172,43834,NULL,DH GEX group out of range,NULL
+1060995,Apr 13,05:20:12,101.251.238.172,50352,NULL,Connection closed,IP
+1061238,Apr 13,05:22:06,NULL,NULL,NULL,banner line contains invalid characters,NULL
+1061723,Apr 13,05:25:56,NULL,NULL,NULL,Connection closed,IP
+1082205,Apr 13,08:08:47,45.79.172.21,22386,NULL,Connection closed,IP
+1082207,Apr 13,08:08:48,45.79.172.21,26442,NULL,Connection closed,IP
+1082209,Apr 13,08:08:49,45.79.172.21,26456,NULL,Connection closed,IP
+1086765,Apr 13,08:45:11,NULL,NULL,NULL,banner line contains invalid characters,NULL
+1087994,Apr 13,08:55:09,NULL,NULL,NULL,banner line contains invalid characters,NULL
+1092088,Apr 13,09:27:52,206.168.34.82,33158,NULL,Connection closed,IP
+1095602,Apr 13,09:55:48,NULL,NULL,NULL,Connection closed,IP
+1099579,Apr 13,10:27:37,NULL,NULL,NULL,Connection closed,IP
+1099602,Apr 13,10:27:48,NULL,NULL,NULL,Connection closed,IP
+1110034,Apr 13,11:51:08,NULL,NULL,NULL,Connection closed,IP
+1116794,Apr 13,12:45:04,NULL,NULL,NULL,banner line contains invalid characters,NULL
+1135719,Apr 13,15:16:07,NULL,NULL,NULL,banner line contains invalid characters,NULL
+1143366,Apr 13,16:17:05,NULL,NULL,NULL,Connection closed,IP
+1143529,Apr 13,16:18:25,NULL,NULL,NULL,Connection closed,IP
+1150190,Apr 13,17:11:48,NULL,NULL,NULL,Connection closed,IP
+1151188,Apr 13,17:19:45,NULL,NULL,NULL,Connection closed,IP
+1159577,Apr 13,18:26:33,NULL,NULL,NULL,client sent invalid protocol identifier,MGLNDD_120.26.163.214_22
+1169218,Apr 13,19:43:47,NULL,NULL,NULL,Connection closed,IP
+1173748,Apr 13,20:20:01,66.240.192.85,51415,NULL,Connection closed,IP
+1174313,Apr 13,20:24:29,NULL,NULL,NULL,Connection closed,IP
+1175853,Apr 13,20:36:48,NULL,NULL,NULL,Connection closed,IP
+1176515,Apr 13,20:42:05,NULL,NULL,NULL,Connection closed,IP
+1177039,Apr 13,20:46:13,NULL,NULL,NULL,client sent invalid protocol identifier,GET / HTTP/1.1
+1182711,Apr 13,21:31:34,NULL,NULL,NULL,Connection closed,IP
+1187393,Apr 13,22:09:05,NULL,NULL,NULL,Connection closed,IP
+1188091,Apr 13,22:14:34,NULL,NULL,NULL,Connection closed,IP
+1193809,Apr 13,23:00:14,65.49.1.235,32207,65.49.1.235,Connection closed,invalid user
+1195966,Apr 13,23:17:18,NULL,NULL,NULL,Connection closed,IP
+1198742,Apr 13,23:39:29,NULL,NULL,NULL,Connection closed,IP
+1199777,Apr 13,23:47:39,NULL,NULL,NULL,Connection closed,IP
+1205947,Apr 14,00:36:42,NULL,NULL,NULL,Connection closed,IP
+1206059,Apr 14,00:37:33,NULL,NULL,NULL,Connection closed,IP
+1206060,Apr 14,00:37:34,185.247.137.66,50539,NULL,Connection closed,IP
+1212252,Apr 14,01:26:52,NULL,NULL,NULL,client sent invalid protocol identifier,MGLNDD_120.26.163.214_22
+1214625,Apr 14,01:45:42,NULL,NULL,NULL,Connection closed,IP
+1215752,Apr 14,01:54:46,NULL,NULL,NULL,Connection closed,IP
+1217063,Apr 14,02:05:10,NULL,NULL,NULL,Connection closed,IP
+1217625,Apr 14,02:09:36,NULL,NULL,NULL,Connection closed,IP
+1218782,Apr 14,02:18:43,NULL,NULL,NULL,Connection closed,IP
+1218783,Apr 14,02:19:03,159.65.124.125,3196,NULL,Connection closed,IP
+1220632,Apr 14,02:33:30,NULL,NULL,NULL,client sent invalid protocol identifier,GET / HTTP/1.1
+1220633,Apr 14,02:33:30,NULL,NULL,NULL,client sent invalid protocol identifier,GET / HTTP/1.1
+1227962,Apr 14,03:31:48,NULL,NULL,NULL,Connection closed,IP
+1231672,Apr 14,04:01:25,NULL,NULL,NULL,Connection closed,IP
+1231806,Apr 14,04:02:28,NULL,NULL,NULL,banner line contains invalid characters,NULL
+1239585,Apr 14,05:04:30,NULL,NULL,NULL,Connection closed,IP
+1241392,Apr 14,05:18:50,NULL,NULL,NULL,banner line contains invalid characters,NULL
+1255928,Apr 14,07:13:34,NULL,NULL,NULL,client sent invalid protocol identifier,GET / HTTP/1.1
+1255929,Apr 14,07:13:34,NULL,NULL,NULL,client sent invalid protocol identifier,GET / HTTP/1.1
+1261447,Apr 14,07:57:33,NULL,NULL,NULL,Connection closed,IP
+1263063,Apr 14,08:10:33,45.79.181.223,24952,NULL,Connection closed,IP
+1263065,Apr 14,08:10:34,45.79.181.223,24954,NULL,Connection closed,IP
+1263079,Apr 14,08:10:35,45.79.181.223,24964,NULL,Connection closed,IP
+1264365,Apr 14,08:20:58,NULL,NULL,NULL,Connection closed,IP
+1279031,Apr 14,10:18:34,NULL,NULL,NULL,Connection closed,IP
+1287348,Apr 14,11:24:43,NULL,NULL,NULL,Connection closed,IP
+1288761,Apr 14,11:36:00,NULL,NULL,NULL,Connection closed,IP
+1293621,Apr 14,12:14:47,NULL,NULL,NULL,banner line contains invalid characters,NULL
+1298669,Apr 14,12:55:10,NULL,NULL,NULL,banner line contains invalid characters,NULL
+1298962,Apr 14,12:57:33,NULL,NULL,NULL,Connection closed,IP
+1303825,Apr 14,13:36:28,NULL,NULL,NULL,client sent invalid protocol identifier,GET / HTTP/1.1
+1304570,Apr 14,13:42:28,NULL,NULL,NULL,Connection closed,IP
+1306754,Apr 14,13:59:57,NULL,NULL,NULL,banner line contains invalid characters,NULL
+1307901,Apr 14,14:09:09,NULL,NULL,NULL,Connection closed,IP
+1308449,Apr 14,14:13:32,172.104.11.34,28150,NULL,Connection closed,IP
+1308451,Apr 14,14:13:34,172.104.11.34,28152,NULL,Connection closed,IP
+1308453,Apr 14,14:13:36,172.104.11.34,28166,NULL,Connection closed,IP
+1313377,Apr 14,14:52:53,NULL,NULL,NULL,Connection closed,IP
+1314662,Apr 14,15:03:12,NULL,NULL,NULL,banner line contains invalid characters,NULL
+1318605,Apr 14,15:34:40,NULL,NULL,NULL,Connection closed,IP
+1321252,Apr 14,15:55:45,18.97.5.101,58594,18.97.5.101,Connection closed,invalid user
+1336257,Apr 14,17:55:56,71.6.232.24,37600,NULL,Connection closed,IP
+1336411,Apr 14,17:57:02,NULL,NULL,NULL,Connection closed,IP
+1342818,Apr 14,18:48:10,NULL,NULL,NULL,Connection closed,IP
+1344479,Apr 14,19:01:30,NULL,NULL,NULL,banner line contains invalid characters,NULL
+1348434,Apr 14,19:33:03,NULL,NULL,NULL,client sent invalid protocol identifier,MGLNDD_120.26.163.214_22
+1355215,Apr 14,20:27:06,NULL,NULL,NULL,client sent invalid protocol identifier,GET / HTTP/1.1
+1356130,Apr 14,20:34:25,NULL,NULL,NULL,Connection closed,IP
+1357458,Apr 14,20:44:59,NULL,NULL,NULL,banner line contains invalid characters,NULL
+1357459,Apr 14,20:45:18,NULL,NULL,NULL,Connection closed,IP
+1357507,Apr 14,20:45:21,165.154.10.165,37626,NULL,Connection closed,IP
+1357509,Apr 14,20:45:21,NULL,NULL,NULL,NULL,NULL
+1360196,Apr 14,21:06:55,NULL,NULL,NULL,Connection closed,IP
+1368628,Apr 14,22:14:16,NULL,NULL,NULL,banner line contains invalid characters,NULL
+1369032,Apr 14,22:17:25,NULL,NULL,NULL,Connection closed,IP
+1369020,Apr 14,22:17:31,NULL,NULL,NULL,banner line contains invalid characters,NULL
+1369114,Apr 14,22:18:58,47.104.15.180,51028,NULL,NULL,NULL
+1369114,Apr 14,22:18:58,47.104.15.180,51028,NULL,NULL,NULL
+1369183,Apr 14,22:19:01,47.104.15.180,38824,NULL,NULL,NULL
+1369183,Apr 14,22:19:01,47.104.15.180,38824,NULL,NULL,NULL
+1369317,Apr 14,22:20:31,47.104.15.180,54710,NULL,Connection reset,IP
+1386263,Apr 15,00:34:30,206.168.34.122,56590,NULL,Connection closed,IP
+1394894,Apr 15,01:43:02,NULL,NULL,NULL,client sent invalid protocol identifier,MGLNDD_120.26.163.214_22
+1405513,Apr 15,03:07:35,NULL,NULL,NULL,Connection closed,IP
+1416312,Apr 15,04:33:21,NULL,NULL,NULL,Connection closed,IP
+1416741,Apr 15,04:36:48,NULL,NULL,NULL,Connection closed,IP
+1431011,Apr 15,06:30:02,NULL,NULL,NULL,Connection closed,IP
+1431133,Apr 15,06:30:58,NULL,NULL,NULL,Connection closed,IP
+1433033,Apr 15,06:45:58,NULL,NULL,NULL,Connection closed,IP
+1442912,Apr 15,08:04:57,NULL,NULL,NULL,Connection closed,IP
+1462402,Apr 15,10:40:56,NULL,NULL,NULL,Connection closed,IP
+1470612,Apr 15,11:46:33,NULL,NULL,NULL,Connection closed,IP
+1482577,Apr 15,13:21:56,NULL,NULL,NULL,Connection closed,IP
+1482842,Apr 15,13:24:02,NULL,NULL,NULL,Connection closed,IP
+1483674,Apr 15,13:30:41,NULL,NULL,NULL,Connection closed,IP
+1484939,Apr 15,13:40:51,NULL,NULL,NULL,Connection closed,IP
+1492331,Apr 15,14:39:54,NULL,NULL,NULL,Connection closed,IP
+1501129,Apr 15,15:50:09,NULL,NULL,NULL,banner line contains invalid characters,NULL
+1505573,Apr 15,16:25:47,NULL,NULL,NULL,banner line contains invalid characters,NULL
+1511726,Apr 15,17:15:01,NULL,NULL,NULL,Connection closed,IP
+1518181,Apr 15,18:06:27,NULL,NULL,NULL,client sent invalid protocol identifier,GET / HTTP/1.1
+1525366,Apr 15,19:03:52,NULL,NULL,NULL,Connection closed,IP
+1526422,Apr 15,19:12:15,NULL,NULL,NULL,Connection reset,IP
+1531727,Apr 15,19:54:37,54.193.68.101,47318,NULL,Connection closed,IP
+1531741,Apr 15,19:54:39,NULL,NULL,NULL,NULL,NULL
+1531729,Apr 15,19:54:39,54.193.68.101,47332,NULL,Connection closed,IP
+1531743,Apr 15,19:54:40,NULL,NULL,NULL,NULL,NULL
+1531745,Apr 15,19:54:41,54.193.68.101,47362,NULL,Connection closed,IP
+1531747,Apr 15,19:54:42,54.193.68.101,47368,NULL,Connection closed,IP
+1531749,Apr 15,19:54:42,54.193.68.101,54090,NULL,Connection closed,IP
+1531751,Apr 15,19:54:43,NULL,NULL,NULL,NULL,NULL
+1533451,Apr 15,20:08:09,66.175.213.4,40232,NULL,Connection closed,IP
+1533453,Apr 15,20:08:11,66.175.213.4,40240,NULL,Connection closed,IP
+1533455,Apr 15,20:08:13,66.175.213.4,40248,NULL,Connection closed,IP
+1544252,Apr 15,21:34:20,NULL,NULL,NULL,Connection closed,IP
+1557676,Apr 15,23:21:16,64.62.197.54,14371,64.62.197.54,Connection closed,invalid user
+1567408,Apr 16,00:38:26,NULL,NULL,NULL,Connection closed,IP
+1569574,Apr 16,00:55:41,209.38.46.178,29364,NULL,Connection reset,IP
+1577841,Apr 16,02:01:35,NULL,NULL,NULL,Connection closed,IP
+1599471,Apr 16,04:54:05,NULL,NULL,NULL,Connection closed,IP
+1600453,Apr 16,05:01:59,NULL,NULL,NULL,Connection closed,IP
+1610189,Apr 16,06:19:33,NULL,NULL,NULL,Connection closed,IP
+1610818,Apr 16,06:24:34,NULL,NULL,NULL,Connection closed,IP
+1610819,Apr 16,06:24:35,223.113.128.174,38946,NULL,Connection closed,IP
+1610821,Apr 16,06:24:36,223.113.128.174,41504,NULL,Connection closed,IP
+1633553,Apr 16,09:25:46,NULL,NULL,NULL,client sent invalid protocol identifier,MGLNDD_120.26.163.214_22
+1636918,Apr 16,09:52:48,NULL,NULL,NULL,Connection closed,IP
+1641812,Apr 16,10:32:05,NULL,NULL,NULL,client sent invalid protocol identifier,GET / HTTP/1.1
+1643442,Apr 16,10:45:02,NULL,NULL,NULL,banner line contains invalid characters,NULL
+1646650,Apr 16,11:10:51,NULL,NULL,NULL,banner line contains invalid characters,NULL
+1646681,Apr 16,11:11:10,NULL,NULL,NULL,banner line contains invalid characters,NULL
+1646693,Apr 16,11:11:14,NULL,NULL,NULL,client sent invalid protocol identifier,GET http://passport.baidu.com/ HTTP/1.1
+1648786,Apr 16,11:27:57,NULL,NULL,NULL,Connection reset,IP
+1652857,Apr 16,12:00:46,167.94.138.202,47862,NULL,Connection closed,IP
+1654178,Apr 16,12:11:03,NULL,NULL,NULL,Connection closed,IP
+1666647,Apr 16,13:50:35,NULL,NULL,NULL,banner line contains invalid characters,NULL
+1668898,Apr 16,14:08:37,172.104.11.46,29786,NULL,Connection closed,IP
+1668911,Apr 16,14:08:39,172.104.11.46,29794,NULL,Connection closed,IP
+1668913,Apr 16,14:08:40,172.104.11.46,24146,NULL,Connection closed,IP
+1669226,Apr 16,14:11:14,172.104.11.4,42056,NULL,Connection closed,IP
+1669239,Apr 16,14:11:17,172.104.11.4,45226,NULL,Connection closed,IP
+1669241,Apr 16,14:11:18,172.104.11.4,45232,NULL,Connection closed,IP
+1674338,Apr 16,14:52:03,NULL,NULL,NULL,banner line contains invalid characters,NULL
+1674370,Apr 16,14:52:19,NULL,NULL,NULL,banner line contains invalid characters,NULL
+1674381,Apr 16,14:52:22,NULL,NULL,NULL,client sent invalid protocol identifier,GET http://passport.baidu.com/ HTTP/1.1
+1679519,Apr 16,15:33:30,NULL,NULL,NULL,client sent invalid protocol identifier,MGLNDD_120.26.163.214_22
+1682654,Apr 16,15:58:17,NULL,NULL,NULL,Connection closed,IP
+1688636,Apr 16,16:46:27,NULL,NULL,NULL,Connection closed,IP
+1688648,Apr 16,16:46:28,87.236.176.173,37471,NULL,Connection closed,IP
+1693480,Apr 16,17:25:18,NULL,NULL,NULL,Connection closed,IP
+1694012,Apr 16,17:29:26,NULL,NULL,NULL,Connection closed,IP
+1694319,Apr 16,17:31:52,NULL,NULL,NULL,Connection closed,IP
+1699425,Apr 16,18:12:47,NULL,NULL,NULL,Connection closed,IP
+1705096,Apr 16,18:58:00,NULL,NULL,NULL,Connection closed,IP
+1713796,Apr 16,20:07:45,45.79.181.179,51170,NULL,Connection closed,IP
+1713798,Apr 16,20:07:46,45.79.181.179,51178,NULL,Connection closed,IP
+1713800,Apr 16,20:07:48,45.79.181.179,51190,NULL,Connection closed,IP
+1718634,Apr 16,20:46:38,167.94.138.167,55420,NULL,Connection closed,IP
+1724970,Apr 16,21:36:52,NULL,NULL,NULL,Connection closed,IP
+1735369,Apr 16,22:59:54,NULL,NULL,NULL,Connection closed,IP
+1735605,Apr 16,23:01:53,NULL,NULL,NULL,Connection closed,IP
+1740698,Apr 16,23:42:25,NULL,NULL,NULL,Connection closed,IP
+1740699,Apr 16,23:42:36,NULL,NULL,NULL,Connection closed,IP
+1740991,Apr 16,23:44:47,NULL,NULL,NULL,banner line contains invalid characters,NULL
+1740992,Apr 16,23:44:50,NULL,NULL,NULL,Connection closed,IP
+1741763,Apr 16,23:50:54,NULL,NULL,NULL,Connection closed,IP
+1746894,Apr 17,00:31:43,NULL,NULL,NULL,Connection closed,IP
+1748543,Apr 17,00:44:51,NULL,NULL,root,Connection closed,IP
+1748545,Apr 17,00:44:53,NULL,NULL,root,Connection closed,IP
+1748558,Apr 17,00:44:55,NULL,NULL,root,Connection closed,IP
+1748560,Apr 17,00:44:56,NULL,NULL,root,Connection closed,IP
+1748562,Apr 17,00:44:58,NULL,NULL,root,Connection closed,IP
+1748575,Apr 17,00:45:00,NULL,NULL,root,Connection closed,IP
+1748577,Apr 17,00:45:02,NULL,NULL,root,Connection closed,IP
+1748582,Apr 17,00:45:05,NULL,NULL,root,Connection closed,IP
+1748595,Apr 17,00:45:07,NULL,NULL,root,Connection closed,IP
+1748597,Apr 17,00:45:10,NULL,NULL,root,Connection closed,IP
+1748610,Apr 17,00:45:12,NULL,NULL,root,Connection closed,IP
+1748612,Apr 17,00:45:13,NULL,NULL,root,Connection closed,IP
+1748625,Apr 17,00:45:15,NULL,NULL,root,Connection closed,IP
+1756563,Apr 17,01:48:38,64.62.197.94,65121,64.62.197.94,Connection closed,invalid user
+1757456,Apr 17,01:55:40,NULL,NULL,NULL,Connection closed,IP
+1757534,Apr 17,01:56:20,NULL,NULL,NULL,banner line contains invalid characters,NULL
+1759618,Apr 17,02:13:01,NULL,NULL,NULL,Connection reset,IP
+1759619,Apr 17,02:13:04,45.79.128.205,60618,NULL,Connection closed,IP
+1759630,Apr 17,02:13:05,NULL,NULL,NULL,Connection reset,IP
+1760042,Apr 17,02:16:34,199.45.154.158,51180,NULL,Connection closed,IP
+1766626,Apr 17,03:08:08,NULL,NULL,NULL,Connection closed,IP
+1778474,Apr 17,04:42:11,NULL,NULL,NULL,Connection closed,IP
+1781947,Apr 17,05:09:53,NULL,NULL,NULL,banner line contains invalid characters,NULL
+1781959,Apr 17,05:09:54,NULL,NULL,NULL,banner line contains invalid characters,NULL
+1782004,Apr 17,05:10:16,NULL,NULL,NULL,client sent invalid protocol identifier,GET http://passport.baidu.com/ HTTP/1.1
+1793210,Apr 17,06:39:18,206.168.34.41,56226,NULL,Connection closed,IP
+1803457,Apr 17,08:00:57,NULL,NULL,NULL,Connection reset,IP
+1804655,Apr 17,08:10:16,192.155.90.220,15392,NULL,Connection closed,IP
+1804657,Apr 17,08:10:18,192.155.90.220,15406,NULL,Connection closed,IP
+1804659,Apr 17,08:10:19,192.155.90.220,15412,NULL,Connection closed,IP
+1805720,Apr 17,08:18:38,NULL,NULL,NULL,Connection closed,IP
+1807753,Apr 17,08:34:43,NULL,NULL,NULL,Connection reset,IP
+1823898,Apr 17,10:43:29,NULL,NULL,NULL,Connection closed,IP
+1824486,Apr 17,10:48:08,NULL,NULL,NULL,banner line contains invalid characters,NULL
+1834368,Apr 17,12:07:21,NULL,NULL,NULL,Connection closed,IP
+1835164,Apr 17,12:13:44,NULL,NULL,NULL,Connection closed,IP
+1835921,Apr 17,12:19:43,NULL,NULL,NULL,banner line contains invalid characters,NULL
+1835922,Apr 17,12:19:43,NULL,NULL,NULL,client sent invalid protocol identifier,GET / HTTP/1.1
+1835923,Apr 17,12:19:43,NULL,NULL,NULL,client sent invalid protocol identifier,GET / HTTP/2
+1835924,Apr 17,12:19:44,NULL,NULL,NULL,banner line contains invalid characters,NULL
+1835925,Apr 17,12:19:44,NULL,NULL,NULL,client sent invalid protocol identifier,GET / HTTP/1.1
+1835926,Apr 17,12:19:44,NULL,NULL,NULL,client sent invalid protocol identifier,GET / HTTP/2
+1846554,Apr 17,13:44:38,NULL,NULL,NULL,client sent invalid protocol identifier,GET / HTTP/1.1
+1849811,Apr 17,14:10:44,45.79.181.94,42942,NULL,Connection closed,IP
+1849813,Apr 17,14:10:46,45.79.181.94,42950,NULL,Connection closed,IP
+1849815,Apr 17,14:10:47,45.79.181.94,42958,NULL,Connection closed,IP
+1854954,Apr 17,14:51:48,NULL,NULL,NULL,banner line contains invalid characters,NULL
+1858710,Apr 17,15:21:51,162.215.216.231,56862,NULL,Connection closed,IP
+1868346,Apr 17,16:39:09,138.68.71.68,21757,NULL,Connection reset,IP
+1874073,Apr 17,17:24:17,NULL,NULL,NULL,Connection closed,IP
+1875553,Apr 17,17:36:07,NULL,NULL,NULL,Connection closed,IP
+1875554,Apr 17,17:36:27,157.230.26.127,3534,NULL,Connection closed,IP
+1876350,Apr 17,17:42:27,NULL,NULL,NULL,Connection closed,IP
+1876650,Apr 17,17:44:52,NULL,NULL,NULL,Connection closed,IP
+1877492,Apr 17,17:51:33,NULL,NULL,NULL,client sent invalid protocol identifier,GET / HTTP/1.1
+1877493,Apr 17,17:51:33,NULL,NULL,NULL,client sent invalid protocol identifier,GET / HTTP/1.1
+1880847,Apr 17,18:18:20,NULL,NULL,NULL,Connection closed,IP
+1881467,Apr 17,18:23:28,43.139.217.35,38444,43.139.217.35,Connection closed,invalid user
+1883034,Apr 17,18:35:47,NULL,NULL,NULL,Connection closed,IP
+1887180,Apr 17,19:09:03,NULL,NULL,NULL,Connection closed,IP
+1889709,Apr 17,19:29:10,NULL,NULL,NULL,client sent invalid protocol identifier,GET / HTTP/1.1
+1889710,Apr 17,19:29:11,NULL,NULL,NULL,client sent invalid protocol identifier,GET / HTTP/1.1
+1894822,Apr 17,20:09:30,45.79.181.223,18366,NULL,Connection closed,IP
+1894824,Apr 17,20:09:32,45.79.181.223,18382,NULL,Connection closed,IP
+1896242,Apr 17,20:21:02,167.94.145.101,39564,NULL,Connection closed,IP
+1907686,Apr 17,21:52:15,64.62.156.159,3951,64.62.156.159,Connection closed,invalid user
+1908920,Apr 17,22:02:01,NULL,NULL,NULL,Connection reset,IP
+1908921,Apr 17,22:02:01,NULL,NULL,NULL,client sent invalid protocol identifier,GET / HTTP/1.1
+1908967,Apr 17,22:02:23,101.251.238.173,52446,NULL,Connection closed,IP
+1909001,Apr 17,22:02:34,101.251.238.173,54710,NULL,DH GEX group out of range,NULL
+1909024,Apr 17,22:02:47,101.251.238.173,59128,NULL,DH GEX group out of range,NULL
+1909059,Apr 17,22:03:02,101.251.238.173,59244,NULL,DH GEX group out of range,NULL
+1909082,Apr 17,22:03:13,101.251.238.173,35294,NULL,DH GEX group out of range,NULL
+1909106,Apr 17,22:03:26,101.251.238.173,40900,NULL,DH GEX group out of range,NULL
+1909127,Apr 17,22:03:37,101.251.238.173,37326,NULL,Connection closed,IP
+1915869,Apr 17,22:57:23,NULL,NULL,NULL,client sent invalid protocol identifier,GET http://passport.baidu.com/ HTTP/1.1
+1915870,Apr 17,22:57:23,NULL,NULL,NULL,banner line contains invalid characters,NULL
+1915915,Apr 17,22:57:45,NULL,NULL,NULL,banner line contains invalid characters,NULL
+1916596,Apr 17,23:03:12,NULL,NULL,NULL,Connection closed,IP
+1916608,Apr 17,23:03:13,92.255.57.61,47474,NULL,Connection closed,IP
+1917708,Apr 17,23:12:07,NULL,NULL,NULL,Connection closed,IP
+1927891,Apr 18,00:33:08,167.94.145.111,47032,NULL,Connection closed,IP
+1935117,Apr 18,01:30:06,NULL,NULL,NULL,Connection closed,IP
+1938595,Apr 18,01:57:59,NULL,NULL,NULL,Connection closed,IP
+1940076,Apr 18,02:09:48,45.79.181.251,17384,NULL,Connection closed,IP
+1940078,Apr 18,02:09:50,45.79.181.251,17394,NULL,Connection closed,IP
+1940089,Apr 18,02:09:52,45.79.181.251,59738,NULL,Connection closed,IP
+1951970,Apr 18,03:44:46,NULL,NULL,NULL,banner line contains invalid characters,NULL
+1957343,Apr 18,04:26:38,NULL,NULL,NULL,client sent invalid protocol identifier,MGLNDD_120.26.163.214_22
+1976389,Apr 18,06:57:33,NULL,NULL,NULL,banner line contains invalid characters,NULL
+1979731,Apr 18,07:24:16,NULL,NULL,NULL,Connection closed,IP
+1984894,Apr 18,08:05:31,NULL,NULL,NULL,Connection closed,IP
+1984895,Apr 18,08:05:41,NULL,NULL,NULL,Connection closed,IP
+1984952,Apr 18,08:05:56,NULL,NULL,NULL,banner line contains invalid characters,NULL
+1984953,Apr 18,08:06:00,NULL,NULL,NULL,Connection closed,IP
+1985532,Apr 18,08:10:38,172.105.128.11,53950,NULL,Connection closed,IP
+1985534,Apr 18,08:10:39,172.105.128.11,53964,NULL,Connection closed,IP
+1985547,Apr 18,08:10:40,172.105.128.11,53974,NULL,Connection closed,IP
+1985613,Apr 18,08:11:14,NULL,NULL,NULL,Connection closed,IP
+1989372,Apr 18,08:41:16,NULL,NULL,NULL,Connection closed,IP
+1995728,Apr 18,09:31:48,NULL,NULL,NULL,Connection reset,IP
+1995792,Apr 18,09:32:22,NULL,NULL,NULL,Connection reset,IP
+1996037,Apr 18,09:34:39,NULL,NULL,NULL,banner line contains invalid characters,NULL
+2003231,Apr 18,10:31:03,NULL,NULL,NULL,client sent invalid protocol identifier,MGLNDD_120.26.163.214_22
+2005327,Apr 18,10:47:44,NULL,NULL,NULL,Connection closed,IP
+2009473,Apr 18,11:21:12,NULL,NULL,NULL,banner line contains invalid characters,NULL
+2010580,Apr 18,11:30:15,162.142.125.40,51240,NULL,Connection closed,IP
+2019067,Apr 18,12:37:50,NULL,NULL,NULL,Connection closed,IP
+2041396,Apr 18,15:35:24,167.94.138.161,43392,NULL,Connection closed,IP
+2043315,Apr 18,15:50:43,185.242.226.20,32932,NULL,Connection closed,IP
+2063505,Apr 18,18:32:16,NULL,NULL,NULL,client sent invalid protocol identifier,NULL
+2063813,Apr 18,18:34:42,NULL,NULL,NULL,client sent invalid protocol identifier,GET / HTTP/1.1
+2070816,Apr 18,19:30:40,NULL,NULL,NULL,client sent invalid protocol identifier,GET / HTTP/1.1
+2071875,Apr 18,19:39:10,NULL,NULL,NULL,Connection closed,IP
+2073002,Apr 18,19:48:11,NULL,NULL,NULL,Connection reset,IP
+2073003,Apr 18,19:48:22,NULL,NULL,NULL,Connection closed,IP
+2073069,Apr 18,19:48:44,NULL,NULL,NULL,banner line contains invalid characters,NULL
+2073070,Apr 18,19:48:47,NULL,NULL,NULL,Connection closed,IP
+2076062,Apr 18,20:12:37,45.79.181.94,2182,NULL,Connection closed,IP
+2076064,Apr 18,20:12:39,45.79.181.94,19090,NULL,Connection closed,IP
+2076066,Apr 18,20:12:41,45.79.181.94,19094,NULL,Connection closed,IP
+2082522,Apr 18,21:04:15,NULL,NULL,NULL,banner line contains invalid characters,NULL
+2082834,Apr 18,21:07:07,47.109.186.193,46086,NULL,NULL,NULL
+2082834,Apr 18,21:07:07,47.109.186.193,46086,NULL,NULL,NULL
+2083443,Apr 18,21:11:31,NULL,NULL,NULL,Connection closed,IP
+2099351,Apr 18,23:18:15,47.92.224.204,41556,NULL,Connection closed,IP
+2108271,Apr 19,00:29:23,65.49.1.191,5647,65.49.1.191,Connection closed,invalid user
+2121082,Apr 19,02:11:25,192.155.90.220,4470,NULL,Connection closed,IP
+2121084,Apr 19,02:11:26,192.155.90.220,4482,NULL,Connection closed,IP
+2121086,Apr 19,02:11:28,192.155.90.220,4488,NULL,Connection closed,IP
+2121384,Apr 19,02:13:51,NULL,NULL,NULL,Connection reset,IP
+2121396,Apr 19,02:13:54,45.79.128.205,16870,NULL,Connection closed,IP
+2121398,Apr 19,02:13:55,NULL,NULL,NULL,Connection reset,IP
+2131547,Apr 19,03:34:44,NULL,NULL,NULL,Connection closed,IP
+2136385,Apr 19,04:13:30,NULL,NULL,NULL,client sent invalid protocol identifier,\376\b\001adminSSH-2.0-OpenSSH_7.4
+2169391,Apr 19,08:36:00,NULL,NULL,NULL,banner line contains invalid characters,NULL
+2171438,Apr 19,08:52:22,NULL,NULL,NULL,Connection closed,IP
+2180321,Apr 19,10:03:04,NULL,NULL,NULL,Connection closed,IP
+2188327,Apr 19,11:06:58,NULL,NULL,NULL,banner line contains invalid characters,NULL
+2193289,Apr 19,11:46:38,NULL,NULL,NULL,Connection closed,IP
+2201897,Apr 19,12:55:31,NULL,NULL,root,Connection closed,IP
+2201899,Apr 19,12:55:33,NULL,NULL,root,Connection closed,IP
+2201909,Apr 19,12:55:35,NULL,NULL,root,Connection closed,IP
+2201911,Apr 19,12:55:36,NULL,NULL,root,Connection closed,IP
+2201913,Apr 19,12:55:39,NULL,NULL,root,Connection closed,IP
+2201926,Apr 19,12:55:41,NULL,NULL,root,Connection closed,IP
+2201928,Apr 19,12:55:42,NULL,NULL,root,Connection closed,IP
+2201941,Apr 19,12:55:44,NULL,NULL,root,Connection closed,IP
+2201943,Apr 19,12:55:46,NULL,NULL,root,Connection closed,IP
+2201945,Apr 19,12:55:47,NULL,NULL,root,Connection closed,IP
+2201958,Apr 19,12:55:49,NULL,NULL,root,Connection closed,IP
+2201960,Apr 19,12:55:51,NULL,NULL,root,Connection closed,IP
+2201962,Apr 19,12:55:53,NULL,NULL,root,Connection closed,IP
+2207389,Apr 19,13:39:16,NULL,NULL,NULL,Connection closed,IP
+2210497,Apr 19,14:03:58,NULL,NULL,NULL,banner line contains invalid characters,NULL
+2225652,Apr 19,16:03:56,NULL,NULL,NULL,banner line contains invalid characters,NULL
+2230700,Apr 19,16:44:27,NULL,NULL,NULL,Connection closed,IP
+2239888,Apr 19,17:57:55,NULL,NULL,NULL,Connection closed,IP
+2240759,Apr 19,18:04:55,NULL,NULL,NULL,Connection closed,IP
+2240760,Apr 19,18:05:06,NULL,NULL,NULL,Connection closed,IP
+2240829,Apr 19,18:05:29,NULL,NULL,NULL,banner line contains invalid characters,NULL
+2240830,Apr 19,18:05:32,NULL,NULL,NULL,Connection closed,IP
+2241664,Apr 19,18:12:09,91.196.152.18,38409,NULL,Connection closed,IP
+2241798,Apr 19,18:13:10,91.196.152.1,60747,NULL,Connection closed,IP
+2243012,Apr 19,18:22:45,NULL,NULL,NULL,client sent invalid protocol identifier,GET / HTTP/1.1
+2245788,Apr 19,18:44:54,NULL,NULL,NULL,Connection closed,IP
+2245800,Apr 19,18:44:55,87.236.176.198,39921,NULL,Connection closed,IP
+2253325,Apr 19,19:44:50,NULL,NULL,NULL,client sent invalid protocol identifier,GET / HTTP/1.1
+2253575,Apr 19,19:46:52,NULL,NULL,NULL,client sent invalid protocol identifier,GET / HTTP/1.1
+2256331,Apr 19,20:08:59,172.105.128.12,35138,NULL,Connection closed,IP
+2256343,Apr 19,20:09:02,172.105.128.12,35140,NULL,Connection closed,IP
+2256345,Apr 19,20:09:03,172.105.128.12,35150,NULL,Connection closed,IP
+2270528,Apr 19,22:01:38,NULL,NULL,NULL,client sent invalid protocol identifier,MGLNDD_120.26.163.214_22
+2275925,Apr 19,22:44:40,NULL,NULL,NULL,banner line contains invalid characters,NULL
+2276653,Apr 19,22:50:28,NULL,NULL,NULL,Connection closed,IP

@@ -74,7 +74,7 @@ def analyze_ssh_logs(input_file, output_file):
                     break
         
         # Add to results list only if all required fields are extracted
-        required_fields = ["PID", "Date", "Time", "IP Address", "Port", "User Name"]
+        required_fields = ["PID", "Date", "Time", "IP Address", "Port", "Username"]
         if all(field in entry for field in required_fields):
             results.append(entry)
     
@@ -107,7 +107,7 @@ def analyze_ssh_logs(input_file, output_file):
     
     # Write to CSV file
     with open(output_file, "w", newline="") as f:
-        fieldnames = ["PID", "Date", "Time", "IP Address", "Port", "User Name"]
+        fieldnames = ["PID", "Date", "Time", "IP Address", "Port", "Username"]
         writer = csv.DictWriter(f, fieldnames=fieldnames)
         writer.writeheader()
         writer.writerows(results)
