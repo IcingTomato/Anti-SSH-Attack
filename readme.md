@@ -2,14 +2,77 @@
 
 基于自己部署在阿里云的ECS中提取出的 `auth.log*` 日志进行分析。
 
-
+## 目录结构
 
 ```bash
-scp root@<target ip>:/var/log/auth.* .
-
-conda create --name anti-attack python=3.12.7
-
-python -m pip install pandas wordcloud matplotlib
+.
++---archive # 存放 auth.log* 的目录
++---font    # 词云字体文件
++---img     # 词云图片 
++---result  # 存放经过清洗筛选的文件 *.csv
++---source  # 存放解压过的 auth.log.*.gz 文件
++---src     # 源码
+\---target  # 存放初次清洗过的文件 *.txt
 ```
 
-*简单分析一波之后感觉 SSH 真难打，就这样爆破都能拦住，不愧是跟林神一个学校（赫尔辛基大学）的Tatu Ylonen，真的对得起 Secure Shell 这个名号*
+## 运行环境
+
+- [x] Debian/Ubuntu 目标服务器 *RHEL/SUSE没试过*
+- [x] 自带/能装的了SSH服务和Python3环境的本地设备
+- [ ] [Anaconda3](https://www.anaconda.com/download/success) *非必须，只是我用着舒服*
+
+## 运行步骤
+
+1. 本地设备拉取远端的 `auth.log*` 日志
+
+    ```bash
+    scp <username>@<target ip>:/var/log/auth.* ./archive
+    ```
+
+    如果有些日志因为时间久远归档了，可以先解压再拉取：
+
+    ```bash
+    gzip -d auth.log.*.gz
+    scp <username>@<target ip>:/var/log/auth.log.* ./source
+    ```
+
+2. 创建 Python venv 环境
+
+    ```bash
+    conda create --name anti-attack python=3.12.7
+    ```
+
+3. 安装依赖
+
+    ```bash
+    python -m pip install pandas wordcloud matplotlib
+    ```
+
+4. 按序号执行 `src` 目录下的 Python 脚本
+
+    ```bash
+    +---src
+    |       1.clean.py                  # 清洗
+    |       2.accepted.py               # 统计成功登录的记录
+    |       3.deny.py                   # 统计拒绝登录的记录
+    |       4.analysis.py               # 统计字典爆破登录失败的记录
+    |       5.others.py                 # 清洗除字典爆破以外登录失败的记录
+    |       6.other_result.py           # 统计除字典爆破以外登录失败的记录
+    /       7.final.py                  # 最终结果 按攻击时间递增排序
+    /       8.wordcloud_ip.py           # 攻击方IP 词云
+    |       9.wordcloud_username.py     # 字典爆破 用户名词云
+    |       10.find_source.py           # 查找源IP
+    |       11.wordcloud_source.py      # 源IP 词云
+    |       anti_attack.sh              # /etc/hosts.deny 规则
+    ```
+
+    `anti_attack.sh` 这个脚本是用来将攻击方IP添加到 `/etc/hosts.deny` 中的，使用时需要 `sudo` 权限。脚本使用方式参见[此处](http://icing.fun/2025/05/12/server_maintain/#title2)。
+
+## 分析报告
+
+此次分析时间范围从2025年4月13日到2025年5月13日。分析样本来自自己部署在阿里云的ECS中提取出的 `auth.log*` 用户日志（`auth.log`, `auth.log.1`, `auth.log.2.gz`, `auth.log.3.gz`, `auth.log.4.gz` 共五份用户日志）。操作系统为 Ubuntu 20.04.2 LTS。
+
+> 用户日志：保留成功或失败登录和身份验证过程的身份验证日志。存储取决于系统类型。对于 Debian/Ubuntu，请查看 /var/log/auth.log。对于 Redhat/CentOS，请转到 /var/log/secure。
+
+### 日志审计
+
