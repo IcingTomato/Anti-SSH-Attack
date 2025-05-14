@@ -39,9 +39,9 @@ for log_file in "${log_files[@]}"; do
     
     # 查找包含"port"但不包含正常连接行为的记录，提取IP地址
     grep "port" "$log_file" | grep -v -E "(Accepted password|Received disconnect|Disconnected from user)" | while read -r line; do
-        # 使用正则表达式提取from和port之间的IP地址
-        if [[ $line =~ from[[:space:]]+([0-9]+\.[0-9]+\.[0-9]+\.[0-9]+)[[:space:]]+port ]]; then
-            ip="${BASH_REMATCH[1]}"
+        # 使用正则表达式提取from/by与port之间的IP地址
+        if [[ $line =~ (from|by)[[:space:]]+([0-9]+\.[0-9]+\.[0-9]+\.[0-9]+)[[:space:]]+port ]]; then
+            ip="${BASH_REMATCH[2]}"
             
             # 检查是否已经在hosts.deny文件中
             if grep -q "sshd: $ip" /etc/hosts.deny; then
