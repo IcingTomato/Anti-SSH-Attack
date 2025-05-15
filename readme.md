@@ -86,3 +86,4 @@ SSH 攻击有多种类型：SSH 端口扫描、SSH 暴力攻击、使用受损 S
 ### 日志审计
 
 
+[^2]: [Classification of SSH Attacks Using Machine Learning Algorithms](https://ieeexplore.ieee.org/document/7740316)
