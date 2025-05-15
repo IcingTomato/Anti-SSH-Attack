@@ -148,7 +148,7 @@ SSH 攻击有多种类型：SSH 端口扫描、SSH 暴力攻击、使用受损 S
 ##### 安全工具自动化与优化
 
 - 部署fail2ban、DenyHosts或SSHGuard等自动化防护工具，以动态阻断频繁的登录尝试，增强对自动化攻击的防御能力。
-    （我懒得配置，1C512M小水管还整这么多花花肠子，真有能耐把SSH干碎了那估计全世界服务器天都塌了，也就配置SSH服务的登录失败次数限制，超过设定次数后自动锁定IP地址。代码参见此处[anti_attack.sh](https://github.com/IcingTomato/Anti-SSH-Attack/blob/master/src/anti_attack.sh)。
+    （我懒得配置，1C512M小水管还整这么多花花肠子，真有能耐把SSH干碎了那估计全世界服务器天都塌了，也就配置SSH服务的登录失败次数限制，超过设定次数后自动锁定IP地址。代码参见此处[anti_attack.sh](https://github.com/IcingTomato/Anti-SSH-Attack/blob/master/src/anti_attack.sh)。）
 
 ##### 账户管理与身份认证强化
 
