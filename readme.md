@@ -85,4 +85,4 @@ SSH 攻击有多种类型：SSH 端口扫描、SSH 暴力攻击、使用受损 S
 
 
 [^1]: [什么是SSH？——华为IP知识百科](https://info.support.huawei.com/info-finder/encyclopedia/zh/SSH.html);
-[^2]: [Classification of SSH Attacks Using Machine Learning Algorithms](https://ieeexplore.ieee.org/document/7740316);
+[^2]: [Classification of SSH Attacks Using Machine Learning Algorithms - IEEE Xplore](https://ieeexplore.ieee.org/document/7740316);
