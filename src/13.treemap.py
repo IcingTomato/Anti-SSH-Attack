@@ -51,7 +51,6 @@ fig.show()
 # Create multiple HTML files filtered by date
 import plotly.io as pio
 
-os.makedirs("img/daily_treemaps", exist_ok=True)
 for date in df['DateOnly'].unique():
     date_str = str(date)
     daily_df = df[df['DateOnly'] == date]
@@ -78,7 +77,3 @@ for date in df['DateOnly'].unique():
         margin=dict(t=50, l=25, r=25, b=25)
     )
     
-    # Save daily view
-    daily_output = f"img/daily_treemaps/ssh_attacks_{date_str}.html"
-    daily_fig.write_html(daily_output)
-    print(f"Generated daily view for {date_str}")
