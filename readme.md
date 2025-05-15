@@ -63,12 +63,13 @@
     |       9.wordcloud_username.py     # 字典爆破 用户名词云
     |       10.find_source.py           # 查找源IP
     |       11.wordcloud_source.py      # 源IP 词云
+    |       12.datetime_audit.py        # 基于日期时间的统计
     |       anti_attack.sh              # /etc/hosts.deny 规则
     ```
 
     `anti_attack.sh` 这个脚本是用来将攻击方IP添加到 `/etc/hosts.deny` 中的，使用时需要 `sudo` 权限。脚本使用方式参见[此处](http://icing.fun/2025/05/12/server_maintain/#title2)。
 
-## 分析报告
+## 前言
 
 此次分析时间范围从2025年4月13日到2025年5月13日。分析样本来自自己部署在阿里云的ECS中提取出的 `auth.log*` 用户日志（`auth.log`, `auth.log.1`, `auth.log.2.gz`, `auth.log.3.gz`, `auth.log.4.gz` 共五份用户日志）。操作系统为 Ubuntu 20.04.2 LTS。
 
